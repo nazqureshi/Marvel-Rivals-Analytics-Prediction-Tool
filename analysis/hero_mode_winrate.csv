@@ -1,0 +1,3333 @@
+player_id,hero_name,map_mode,mode_winrate
+-oo- <---MyPig,Angela,Convergence,1.0
+-oo- <---MyPig,Angela,Convoy,0.6666666666666666
+-oo- <---MyPig,Angela,Domination,1.0
+-oo- <---MyPig,Emma Frost,Convergence,0.6666666666666666
+-oo- <---MyPig,Emma Frost,Convoy,0.3333333333333333
+-oo- <---MyPig,Emma Frost,Domination,0.3333333333333333
+-oo- <---MyPig,Groot,Convergence,1.0
+-oo- <---MyPig,Groot,Convoy,0.0
+-oo- <---MyPig,Groot,Domination,0.0
+-oo- <---MyPig,Magneto,Domination,1.0
+-oo- <---MyPig,Wolverine,Domination,0.0
+.Flo,Adam Warlock,Convoy,0.0
+.Flo,Hela,Convoy,0.0
+.Flo,Hela,Domination,0.5
+.Flo,Phoenix,Convergence,1.0
+.Flo,Phoenix,Convoy,0.6666666666666666
+.Flo,Phoenix,Domination,0.75
+.Flo,Psylocke,Convoy,0.0
+.Flo,Rocket Raccoon,Convergence,1.0
+.Flo,Star-Lord,Convergence,0.0
+.Flo,Star-Lord,Domination,1.0
+.Itami.,Jeff The Land Shark,Convergence,0.75
+.Itami.,Jeff The Land Shark,Convoy,0.2857142857142857
+.Itami.,Jeff The Land Shark,Domination,0.9
+.Tanooki.,Angela,Convergence,1.0
+.Tanooki.,Angela,Domination,1.0
+.Tanooki.,Gambit,Convergence,0.75
+.Tanooki.,Gambit,Convoy,0.4
+.Tanooki.,Gambit,Domination,0.75
+.Tanooki.,Magneto,Convergence,1.0
+.Tanooki.,Mantis,Convergence,0.0
+.Tanooki.,Mantis,Convoy,1.0
+.Tanooki.,Mantis,Domination,1.0
+.Tanooki.,Namor,Domination,1.0
+.Tanooki.,Phoenix,Convergence,0.0
+.Tanooki.,Phoenix,Convoy,1.0
+.Tanooki.,Squirrel Girl,Convoy,1.0
+.Tanooki.,Storm,Convoy,0.0
+100T Lopez,Bruce Banner,Convoy,1.0
+100T Lopez,Captain America,Convergence,1.0
+100T Lopez,Groot,Convergence,0.8888888888888888
+100T Lopez,Groot,Convoy,0.5
+100T Lopez,Groot,Domination,0.75
+100T Lopez,Magneto,Domination,0.5
+100T Lopez,The Thing,Convoy,1.0
+100T TTK,Angela,Convergence,1.0
+100T TTK,Angela,Convoy,0.5
+100T TTK,Angela,Domination,0.3333333333333333
+100T TTK,Emma Frost,Convergence,1.0
+100T TTK,Emma Frost,Convoy,0.8
+100T TTK,Emma Frost,Domination,0.8333333333333334
+100T TTK,Magneto,Convergence,1.0
+100T TTK,Magneto,Convoy,0.0
+100T TTK,Magneto,Domination,1.0
+1Ø0,Gambit,Convergence,1.0
+1Ø0,Gambit,Convoy,0.0
+1Ø0,Hela,Convergence,0.5
+1Ø0,Hela,Convoy,0.5
+1Ø0,Phoenix,Convergence,1.0
+1Ø0,Phoenix,Convoy,0.8
+1Ø0,Phoenix,Domination,0.5
+1Ø0,Psylocke,Convergence,0.0
+1Ø0,Psylocke,Domination,1.0
+1Ø0,Star-Lord,Convergence,1.0
+1Ø0,Star-Lord,Convoy,0.0
+2025 respect,Emma Frost,Convergence,1.0
+2025 respect,Emma Frost,Convoy,0.0
+2025 respect,Gambit,Convergence,0.5
+2025 respect,Gambit,Convoy,1.0
+2025 respect,Invisible Woman,Domination,0.0
+2025 respect,Jeff The Land Shark,Convergence,1.0
+2025 respect,Jeff The Land Shark,Convoy,1.0
+2025 respect,Loki,Convergence,0.0
+2025 respect,Loki,Convoy,1.0
+2025 respect,Loki,Domination,1.0
+2025 respect,Magneto,Convergence,1.0
+2025 respect,Magneto,Convoy,0.0
+2025 respect,Magneto,Domination,0.0
+2025 respect,Moon Knight,Convoy,1.0
+2025 respect,Moon Knight,Domination,1.0
+2025 respect,Psylocke,Convoy,1.0
+2025 respect,Rocket Raccoon,Convergence,1.0
+6DABi,Gambit,Convergence,0.8
+6DABi,Gambit,Convoy,0.75
+6DABi,Gambit,Domination,0.75
+6DABi,Invisible Woman,Convoy,0.6666666666666666
+6DABi,Loki,Convergence,1.0
+6DABi,Magneto,Convergence,0.0
+6DABi,Magneto,Convoy,1.0
+6DABi,Magneto,Domination,1.0
+6DABi,Mantis,Convergence,1.0
+6DABi,Venom,Domination,0.0
+7second',Emma Frost,Convoy,1.0
+7second',Emma Frost,Domination,1.0
+7second',Gambit,Convergence,1.0
+7second',Gambit,Convoy,1.0
+7second',Gambit,Domination,1.0
+7second',Invisible Woman,Convergence,0.6666666666666666
+7second',Invisible Woman,Convoy,1.0
+7second',Invisible Woman,Domination,1.0
+7second',Loki,Convergence,1.0
+7second',Loki,Domination,1.0
+7second',Luna Snow,Convergence,1.0
+7second',Luna Snow,Convoy,0.5
+7second',Luna Snow,Domination,0.0
+7second',Magneto,Domination,1.0
+7second',Mantis,Domination,0.0
+Ahns,Hela,Convoy,0.5
+Ahns,Hela,Domination,0.0
+Ahns,Magneto,Convergence,1.0
+Ahns,Mantis,Domination,1.0
+Ahns,Phoenix,Convergence,1.0
+Ahns,Phoenix,Convoy,0.75
+Ahns,Phoenix,Domination,0.6666666666666666
+Ahns,Psylocke,Convergence,0.5
+Ahns,Psylocke,Convoy,0.0
+Ahns,Star-Lord,Convergence,0.5
+Ahns,Star-Lord,Convoy,1.0
+Aleix1RP,Angela,Domination,0.0
+Aleix1RP,Gambit,Convergence,0.6666666666666666
+Aleix1RP,Gambit,Convoy,0.5
+Aleix1RP,Gambit,Domination,0.6666666666666666
+Aleix1RP,Invisible Woman,Convoy,1.0
+Aleix1RP,Loki,Domination,1.0
+Aleix1RP,Luna Snow,Convergence,1.0
+Aleix1RP,Mantis,Convergence,0.0
+Aleix1RP,Mantis,Convoy,1.0
+Aleix1RP,Mantis,Domination,0.5
+Aleix1RP,Phoenix,Convergence,0.0
+Aleix1RP,Rocket Raccoon,Convergence,0.0
+Aleix1RP,Rocket Raccoon,Convoy,0.5
+Aleix1RP,Rocket Raccoon,Domination,1.0
+AsmallChicken,Daredevil,Convergence,1.0
+AsmallChicken,Daredevil,Convoy,1.0
+AsmallChicken,Daredevil,Domination,0.5
+AsmallChicken,Doctor Strange,Convergence,0.0
+AsmallChicken,Emma Frost,Convergence,1.0
+AsmallChicken,Emma Frost,Convoy,1.0
+AsmallChicken,Emma Frost,Domination,1.0
+AsmallChicken,Gambit,Convoy,1.0
+AsmallChicken,Luna Snow,Domination,0.0
+AsmallChicken,Magik,Convoy,1.0
+AsmallChicken,Magik,Domination,1.0
+AsmallChicken,Magneto,Convergence,0.0
+AsmallChicken,Magneto,Domination,1.0
+Astomarpy,Angela,Domination,0.3333333333333333
+Astomarpy,Daredevil,Convergence,0.0
+Astomarpy,Emma Frost,Convergence,1.0
+Astomarpy,Gambit,Convoy,1.0
+Astomarpy,Groot,Convergence,0.5
+Astomarpy,Groot,Convoy,1.0
+Astomarpy,Groot,Domination,0.5
+Astomarpy,Loki,Convoy,1.0
+Astomarpy,Loki,Domination,0.0
+Astomarpy,Magneto,Convergence,0.5
+Astomarpy,Magneto,Convoy,0.0
+Astomarpy,Magneto,Domination,0.6666666666666666
+Astomarpy,Mantis,Domination,1.0
+Astomarpy,Rocket Raccoon,Convergence,1.0
+Astomarpy,Venom,Convoy,1.0
+Astomarpy,Venom,Domination,1.0
+Atlas2Much,Cloak & Dagger,Convergence,1.0
+Atlas2Much,Moon Knight,Convergence,1.0
+Atlas2Much,Rocket Raccoon,Convergence,0.0
+Atlas2Much,Rocket Raccoon,Convoy,1.0
+Atlas2Much,Spider-Man,Convergence,0.16666666666666666
+Atlas2Much,Spider-Man,Convoy,0.8
+Atlas2Much,Spider-Man,Domination,0.875
+Atlas2Much,The Punisher,Convergence,1.0
+Ayanokоji,Emma Frost,Domination,1.0
+Ayanokоji,Gambit,Convergence,0.0
+Ayanokоji,Gambit,Convoy,1.0
+Ayanokоji,Gambit,Domination,0.5
+Ayanokоji,Invisible Woman,Convergence,0.0
+Ayanokоji,Invisible Woman,Convoy,1.0
+Ayanokоji,Invisible Woman,Domination,0.6666666666666666
+Ayanokоji,Jeff The Land Shark,Convergence,1.0
+Ayanokоji,Jeff The Land Shark,Convoy,0.0
+Ayanokоji,Jeff The Land Shark,Domination,1.0
+Ayanokоji,Loki,Convergence,0.5
+Ayanokоji,Loki,Convoy,1.0
+Ayanokоji,Loki,Domination,1.0
+Ayanokоji,Magneto,Convergence,0.0
+Ayanokоji,Mantis,Convergence,0.0
+Ayanokоji,Winter Soldier,Convoy,0.0
+B4reBackObama,Hela,Domination,1.0
+B4reBackObama,Phoenix,Convergence,0.875
+B4reBackObama,Phoenix,Convoy,0.5714285714285714
+B4reBackObama,Phoenix,Domination,0.3333333333333333
+B4reBackObama,Psylocke,Convergence,1.0
+B4reBackObama,Psylocke,Convoy,0.0
+B4reBackObama,Winter Soldier,Convoy,1.0
+B4reBackObama,Winter Soldier,Domination,1.0
+BadGDPlayer,Angela,Convergence,1.0
+BadGDPlayer,Angela,Convoy,0.5
+BadGDPlayer,Angela,Domination,0.5
+BadGDPlayer,Bruce Banner,Convergence,0.6666666666666666
+BadGDPlayer,Bruce Banner,Convoy,0.8333333333333334
+BadGDPlayer,Bruce Banner,Domination,0.4
+Bayonettа,Captain America,Domination,1.0
+Bayonettа,Emma Frost,Domination,1.0
+Bayonettа,Gambit,Convoy,1.0
+Bayonettа,Gambit,Domination,0.5
+Bayonettа,Invisible Woman,Convergence,0.0
+Bayonettа,Invisible Woman,Convoy,1.0
+Bayonettа,Luna Snow,Convoy,0.0
+Bayonettа,Magneto,Convergence,0.5
+Bayonettа,Magneto,Convoy,0.5
+Bayonettа,Magneto,Domination,0.5
+Bayonettа,Phoenix,Convergence,0.0
+Bayonettа,Psylocke,Domination,1.0
+Bayonettа,Winter Soldier,Convoy,1.0
+Bayonettа,Winter Soldier,Domination,1.0
+BichiyaI,Cloak & Dagger,Convergence,0.0
+BichiyaI,Jeff The Land Shark,Convergence,0.6
+BichiyaI,Jeff The Land Shark,Convoy,1.0
+BichiyaI,Jeff The Land Shark,Domination,0.8
+BichiyaI,Rocket Raccoon,Convoy,0.5
+BichiyaI,Rocket Raccoon,Domination,1.0
+Blame my ex,Cloak & Dagger,Convergence,0.0
+Blame my ex,Cloak & Dagger,Domination,1.0
+Blame my ex,Emma Frost,Domination,0.0
+Blame my ex,Gambit,Convergence,0.25
+Blame my ex,Gambit,Convoy,0.6666666666666666
+Blame my ex,Gambit,Domination,0.5
+Blame my ex,Invisible Woman,Convoy,0.0
+Blame my ex,Invisible Woman,Domination,1.0
+Blame my ex,Loki,Convergence,0.3333333333333333
+Blame my ex,Loki,Convoy,0.6666666666666666
+Blame my ex,Loki,Domination,1.0
+Blame my ex,Mantis,Domination,0.0
+Blame my ex,Star-Lord,Convoy,1.0
+BxbyHarley,Gambit,Convergence,0.0
+BxbyHarley,Gambit,Domination,1.0
+BxbyHarley,Invisible Woman,Convergence,0.5
+BxbyHarley,Invisible Woman,Convoy,0.5
+BxbyHarley,Invisible Woman,Domination,1.0
+BxbyHarley,Loki,Domination,1.0
+BxbyHarley,Luna Snow,Convergence,0.6
+BxbyHarley,Luna Snow,Convoy,0.75
+BxbyHarley,Luna Snow,Domination,0.0
+BxbyHarley,Rocket Raccoon,Convergence,0.0
+CH0MBLE,Captain America,Convergence,1.0
+CH0MBLE,Captain America,Convoy,0.5
+CH0MBLE,Captain America,Domination,0.6666666666666666
+CH0MBLE,Groot,Convergence,0.0
+CH0MBLE,Groot,Convoy,0.0
+CH0MBLE,Groot,Domination,0.5
+CH0MBLE,Magneto,Convergence,0.5
+CH0MBLE,Magneto,Convoy,0.6666666666666666
+CH0MBLE,The Thing,Convoy,0.0
+CH0MBLE,Venom,Convergence,0.5
+CH0MBLE,Venom,Convoy,0.0
+CH0MBLE,Venom,Domination,0.0
+CIio,Cloak & Dagger,Convergence,1.0
+CIio,Cloak & Dagger,Convoy,1.0
+CIio,Gambit,Convergence,0.6666666666666666
+CIio,Gambit,Domination,1.0
+CIio,Invisible Woman,Convergence,0.8571428571428571
+CIio,Invisible Woman,Convoy,0.6
+CIio,Invisible Woman,Domination,1.0
+CIio,Luna Snow,Convoy,0.0
+CIio,Luna Snow,Domination,1.0
+CIio,Magneto,Convoy,0.0
+CIio,Rocket Raccoon,Convoy,1.0
+CIio,The Thing,Domination,0.0
+CTG pølly,Angela,Convoy,0.0
+CTG pølly,Captain America,Convergence,1.0
+CTG pølly,Captain America,Convoy,1.0
+CTG pølly,Captain America,Domination,0.6666666666666666
+CTG pølly,Emma Frost,Convergence,1.0
+CTG pølly,Emma Frost,Convoy,0.0
+CTG pølly,Emma Frost,Domination,0.6666666666666666
+CTG pølly,Groot,Convergence,0.6666666666666666
+CTG pølly,Groot,Domination,0.0
+CTG pølly,Magneto,Convergence,1.0
+CTG pølly,Magneto,Convoy,1.0
+CTG pølly,Magneto,Domination,0.5
+CTG pølly,Mantis,Convoy,1.0
+CTG pølly,Mantis,Domination,0.0
+CTG pølly,Venom,Domination,0.0
+CaptainIcеland,Angela,Convergence,0.0
+CaptainIcеland,Angela,Convoy,1.0
+CaptainIcеland,Angela,Domination,1.0
+CaptainIcеland,Captain America,Convergence,0.0
+CaptainIcеland,Captain America,Convoy,1.0
+CaptainIcеland,Captain America,Domination,1.0
+CaptainIcеland,Doctor Strange,Convergence,1.0
+CaptainIcеland,Emma Frost,Convergence,0.6666666666666666
+CaptainIcеland,Emma Frost,Convoy,1.0
+CaptainIcеland,Groot,Convoy,0.6
+CaptainIcеland,Groot,Domination,0.3333333333333333
+CaptainIcеland,Hela,Convergence,1.0
+CaptainIcеland,Magneto,Convoy,0.0
+CaptainIcеland,Thor,Domination,1.0
+CaptainRex.,Captain America,Convoy,1.0
+CaptainRex.,Captain America,Domination,0.5
+CaptainRex.,Doctor Strange,Convergence,1.0
+CaptainRex.,Emma Frost,Convoy,1.0
+CaptainRex.,Emma Frost,Domination,0.0
+CaptainRex.,Groot,Convergence,0.6666666666666666
+CaptainRex.,Groot,Convoy,1.0
+CaptainRex.,Groot,Domination,0.4
+CaptainRex.,Hela,Domination,1.0
+CaptainRex.,Magneto,Domination,0.0
+CaptainRex.,Peni Parker,Convergence,1.0
+CaptainRex.,Winter Soldier,Convergence,1.0
+CeeDubTee,Captain America,Domination,1.0
+CeeDubTee,Emma Frost,Convergence,1.0
+CeeDubTee,Emma Frost,Convoy,0.75
+CeeDubTee,Emma Frost,Domination,0.0
+CeeDubTee,Groot,Convergence,0.5714285714285714
+CeeDubTee,Groot,Convoy,0.8
+CeeDubTee,Groot,Domination,0.6
+CeeDubTee,Luna Snow,Domination,0.0
+CeeDubTee ALT,Emma Frost,Convergence,0.5
+CeeDubTee ALT,Emma Frost,Convoy,0.6666666666666666
+CeeDubTee ALT,Gambit,Convergence,1.0
+CeeDubTee ALT,Groot,Convergence,0.5
+CeeDubTee ALT,Groot,Convoy,0.6
+CeeDubTee ALT,Groot,Domination,0.5
+CeeDubTree,Emma Frost,Convergence,0.5
+CeeDubTree,Emma Frost,Convoy,1.0
+CeeDubTree,Emma Frost,Domination,1.0
+CeeDubTree,Groot,Convergence,0.6666666666666666
+CeeDubTree,Groot,Convoy,0.6666666666666666
+CeeDubTree,Groot,Domination,0.6666666666666666
+CeeDubTree,Magneto,Convoy,1.0
+Champаgne,Emma Frost,Convergence,1.0
+Champаgne,Groot,Convergence,1.0
+Champаgne,Hela,Convergence,0.75
+Champаgne,Hela,Convoy,0.3333333333333333
+Champаgne,Mantis,Convoy,0.0
+Champаgne,Phoenix,Convergence,0.5
+Champаgne,Phoenix,Convoy,1.0
+Champаgne,Psylocke,Convergence,1.0
+Champаgne,Psylocke,Convoy,1.0
+Champаgne,Psylocke,Domination,0.5
+Champаgne,Winter Soldier,Convergence,0.6666666666666666
+Champаgne,Winter Soldier,Convoy,0.5
+Champаgne,Winter Soldier,Domination,1.0
+Cherish,Angela,Convoy,0.0
+Cherish,Emma Frost,Convergence,0.5
+Cherish,Emma Frost,Convoy,0.6666666666666666
+Cherish,Emma Frost,Domination,0.8
+Cherish,Gambit,Domination,0.0
+Cherish,Magneto,Convergence,1.0
+Cherish,Magneto,Convoy,0.0
+Cherish,Phoenix,Domination,0.0
+Cherish,Rocket Raccoon,Convoy,1.0
+ClockN'DragHer,Gambit,Convergence,0.8
+ClockN'DragHer,Gambit,Convoy,0.5
+ClockN'DragHer,Gambit,Domination,0.6666666666666666
+ClockN'DragHer,Invisible Woman,Convergence,0.0
+ClockN'DragHer,Invisible Woman,Convoy,0.3333333333333333
+ClockN'DragHer,Invisible Woman,Domination,0.6666666666666666
+ClockN'DragHer,Luna Snow,Convoy,1.0
+ClockN'DragHer,Mantis,Convergence,1.0
+ClockN'DragHer,Mantis,Convoy,1.0
+ClockN'DragHer,Rocket Raccoon,Domination,0.5
+Clos3upMagic,Adam Warlock,Convergence,1.0
+Clos3upMagic,Emma Frost,Convoy,0.0
+Clos3upMagic,Gambit,Convergence,0.6
+Clos3upMagic,Gambit,Convoy,1.0
+Clos3upMagic,Gambit,Domination,0.5
+Clos3upMagic,Invisible Woman,Convergence,1.0
+Clos3upMagic,Rocket Raccoon,Convergence,0.0
+Clos3upMagic,Rocket Raccoon,Convoy,0.6666666666666666
+Clos3upMagic,Rocket Raccoon,Domination,1.0
+Clos3upMagic,Star-Lord,Domination,1.0
+Clos3upMagic,Storm,Convergence,0.0
+Clos3upMagic,The Punisher,Domination,0.0
+Clos3upMagic,The Thing,Domination,1.0
+Clos3upMagic,Winter Soldier,Domination,0.0
+Clos3upMagic,Wolverine,Domination,1.0
+Cognаc,Hela,Convoy,0.0
+Cognаc,Hela,Domination,0.0
+Cognаc,Magneto,Convergence,1.0
+Cognаc,Mantis,Convergence,0.0
+Cognаc,Namor,Convergence,0.0
+Cognаc,Phoenix,Convergence,0.5
+Cognаc,Phoenix,Convoy,1.0
+Cognаc,Phoenix,Domination,1.0
+Cognаc,Psylocke,Convoy,1.0
+Cognаc,Psylocke,Domination,1.0
+Cognаc,Star-Lord,Convergence,1.0
+Cognаc,Star-Lord,Domination,1.0
+Cognаc,Winter Soldier,Convergence,0.5
+Cognаc,Winter Soldier,Convoy,0.0
+Cognаc,Winter Soldier,Domination,1.0
+Cognаc,Wolverine,Convoy,1.0
+Cognаc,Wolverine,Domination,1.0
+Costco,Black Panther,Convoy,0.0
+Costco,Black Panther,Domination,1.0
+Costco,Black Widow,Convergence,1.0
+Costco,Black Widow,Convoy,0.3333333333333333
+Costco,Black Widow,Domination,0.25
+Costco,Daredevil,Convergence,0.5
+Costco,Daredevil,Convoy,0.0
+Costco,Gambit,Domination,1.0
+Costco,Jeff The Land Shark,Convergence,1.0
+Costco,Luna Snow,Convergence,0.5
+Costco,Luna Snow,Domination,0.0
+Costco,Magneto,Convergence,0.0
+Costco,Psylocke,Domination,0.0
+Costco,Star-Lord,Domination,0.0
+Costco,Winter Soldier,Convergence,1.0
+Costco,Winter Soldier,Convoy,1.0
+Daes,Daredevil,Convergence,1.0
+Daes,Daredevil,Convoy,0.6666666666666666
+Daes,Daredevil,Domination,0.5
+Daes,Emma Frost,Convergence,0.0
+Daes,Emma Frost,Convoy,0.0
+Daes,Groot,Convoy,1.0
+Daes,Magneto,Domination,0.0
+Daes,Rocket Raccoon,Convergence,1.0
+Daes,Star-Lord,Domination,0.0
+Daes,Winter Soldier,Convergence,0.0
+Daes,Winter Soldier,Domination,0.0
+Daes,Wolverine,Convergence,0.3333333333333333
+DecaDonald,Invisible Woman,Domination,0.0
+DecaDonald,Jeff The Land Shark,Convergence,0.4
+DecaDonald,Jeff The Land Shark,Convoy,0.8
+DecaDonald,Jeff The Land Shark,Domination,0.8
+DecaDonald,Loki,Convergence,1.0
+DecaDonald,Loki,Convoy,1.0
+DecaDonald,Loki,Domination,0.0
+DecaDonald,Rocket Raccoon,Convergence,0.0
+DecaDonald,Rocket Raccoon,Domination,1.0
+DecaDonald,Venom,Domination,1.0
+DihDevil69420,Emma Frost,Convergence,0.0
+DihDevil69420,Emma Frost,Convoy,1.0
+DihDevil69420,Hela,Convergence,1.0
+DihDevil69420,Namor,Convergence,1.0
+DihDevil69420,Phoenix,Domination,0.5
+DihDevil69420,Psylocke,Convergence,1.0
+DihDevil69420,Psylocke,Domination,0.5
+DihDevil69420,Rocket Raccoon,Convergence,0.0
+DihDevil69420,Spider-Man,Convergence,0.25
+DihDevil69420,Spider-Man,Convoy,1.0
+DihDevil69420,Spider-Man,Domination,0.75
+DihDevil69420,Star-Lord,Convoy,1.0
+DihDevil69420,Winter Soldier,Convoy,1.0
+Doomеd,Blade,Convergence,1.0
+Doomеd,Daredevil,Convergence,0.5
+Doomеd,Daredevil,Convoy,1.0
+Doomеd,Daredevil,Domination,0.0
+Doomеd,Doctor Strange,Convoy,0.0
+Doomеd,Doctor Strange,Domination,1.0
+Doomеd,Jeff The Land Shark,Convergence,0.0
+Doomеd,Magneto,Convergence,1.0
+Doomеd,Magneto,Convoy,1.0
+Doomеd,Magneto,Domination,1.0
+Doomеd,Phoenix,Convergence,0.5
+Doomеd,Phoenix,Convoy,0.0
+Doomеd,Psylocke,Convoy,1.0
+Doomеd,Psylocke,Domination,0.0
+Doomеd,Star-Lord,Convoy,1.0
+Doomеd,Wolverine,Convergence,1.0
+Doomеd,Wolverine,Convoy,0.5
+ENVY shpeediry,Daredevil,Convergence,0.5
+ENVY shpeediry,Daredevil,Convoy,0.3333333333333333
+ENVY shpeediry,Daredevil,Domination,1.0
+ENVY shpeediry,Human Torch,Domination,1.0
+ENVY shpeediry,Mantis,Convoy,1.0
+ENVY shpeediry,Namor,Convoy,1.0
+ENVY shpeediry,Phoenix,Convoy,0.0
+ENVY shpeediry,Phoenix,Domination,0.0
+ENVY shpeediry,Psylocke,Convergence,1.0
+ENVY shpeediry,Psylocke,Convoy,0.5
+ENVY shpeediry,Psylocke,Domination,0.3333333333333333
+ENVY shpeediry,Star-Lord,Convergence,1.0
+ENVY shpeediry,Star-Lord,Domination,0.5
+ENVY shpeediry,Wolverine,Convergence,0.0
+ENVY shpeediry,Wolverine,Domination,1.0
+EatingPizzaRn,Blade,Convoy,0.0
+EatingPizzaRn,Daredevil,Convergence,1.0
+EatingPizzaRn,Daredevil,Convoy,0.6666666666666666
+EatingPizzaRn,Daredevil,Domination,0.5
+EatingPizzaRn,Iron Fist,Convergence,1.0
+EatingPizzaRn,Iron Fist,Convoy,1.0
+EatingPizzaRn,Iron Fist,Domination,1.0
+EatingPizzaRn,Magneto,Domination,1.0
+EatingPizzaRn,Mister Fantastic,Convergence,1.0
+EatingPizzaRn,Mister Fantastic,Convoy,0.0
+EatingPizzaRn,Mister Fantastic,Domination,0.5
+EatingPizzaRn,Winter Soldier,Convergence,0.3333333333333333
+EatingPizzaRn,Winter Soldier,Convoy,1.0
+EatingPizzaRn,Winter Soldier,Domination,1.0
+Eliraf,Adam Warlock,Domination,1.0
+Eliraf,Hela,Convergence,0.0
+Eliraf,Hela,Domination,1.0
+Eliraf,Magneto,Convergence,0.0
+Eliraf,Mantis,Convergence,1.0
+Eliraf,Mantis,Convoy,1.0
+Eliraf,Phoenix,Convergence,1.0
+Eliraf,Phoenix,Convoy,0.5555555555555556
+Eliraf,Phoenix,Domination,0.5
+Eliraf,Psylocke,Convergence,0.0
+Eliraf,Rocket Raccoon,Convergence,1.0
+Eliraf,Star-Lord,Convergence,1.0
+Envy Lopez,Groot,Convergence,1.0
+Envy Lopez,Groot,Convoy,0.45454545454545453
+Envy Lopez,Groot,Domination,0.75
+Envy Lopez,Magneto,Domination,0.0
+EpicSauce,Gambit,Convergence,0.0
+EpicSauce,Gambit,Convoy,0.3333333333333333
+EpicSauce,Invisible Woman,Convergence,1.0
+EpicSauce,Invisible Woman,Domination,0.8571428571428571
+EpicSauce,Jeff The Land Shark,Convoy,1.0
+EpicSauce,Loki,Convergence,0.0
+EpicSauce,Loki,Convoy,1.0
+EpicSauce,Luna Snow,Convoy,1.0
+EpicSauce,Magneto,Convoy,1.0
+EpicSauce,Mantis,Convergence,1.0
+EpicSauce,Mantis,Convoy,1.0
+EpicSauce,Mantis,Domination,1.0
+EpicSauce,Rocket Raccoon,Convergence,0.0
+EpicSauce,Rocket Raccoon,Convoy,1.0
+EpicSauce,Rocket Raccoon,Domination,1.0
+EpicSauce,Winter Soldier,Convoy,1.0
+Esfoy,Cloak & Dagger,Domination,1.0
+Esfoy,Emma Frost,Domination,0.0
+Esfoy,Gambit,Convoy,0.0
+Esfoy,Invisible Woman,Convergence,0.75
+Esfoy,Invisible Woman,Domination,0.5
+Esfoy,Jeff The Land Shark,Convoy,1.0
+Esfoy,Jeff The Land Shark,Domination,0.5
+Esfoy,Luna Snow,Convoy,0.0
+Esfoy,Magneto,Convoy,0.5
+Esfoy,Magneto,Domination,1.0
+Esfoy,Rocket Raccoon,Convergence,1.0
+Esfoy,Rocket Raccoon,Convoy,0.3333333333333333
+Esfoy,Rocket Raccoon,Domination,1.0
+Evil GomaKazi,Black Panther,Convergence,1.0
+Evil GomaKazi,Hawkeye,Convoy,0.5
+Evil GomaKazi,Hela,Convergence,1.0
+Evil GomaKazi,Hela,Convoy,1.0
+Evil GomaKazi,Hela,Domination,1.0
+Evil GomaKazi,Moon Knight,Convoy,0.0
+Evil GomaKazi,Phoenix,Convergence,0.0
+Evil GomaKazi,Psylocke,Convergence,1.0
+Evil GomaKazi,Psylocke,Convoy,0.8333333333333334
+Evil GomaKazi,Psylocke,Domination,1.0
+Evil GomaKazi,Spider-Man,Convergence,0.0
+Evil GomaKazi,Spider-Man,Domination,1.0
+Evil GomaKazi,Star-Lord,Convergence,0.0
+Evil GomaKazi,The Punisher,Convoy,1.0
+Evil GomaKazi,Winter Soldier,Convergence,0.0
+Evil GomaKazi,Winter Soldier,Domination,0.0
+FIyingElite,Gambit,Convoy,0.0
+FIyingElite,Hela,Convergence,0.6666666666666666
+FIyingElite,Hela,Convoy,1.0
+FIyingElite,Hela,Domination,0.6666666666666666
+FIyingElite,Namor,Domination,0.0
+FIyingElite,Phoenix,Convergence,1.0
+FIyingElite,Phoenix,Convoy,1.0
+FIyingElite,Phoenix,Domination,0.5
+FIyingElite,Psylocke,Convoy,1.0
+FIyingElite,Star-Lord,Convergence,1.0
+FIyingElite,Winter Soldier,Convergence,1.0
+FIyingElite,Winter Soldier,Convoy,0.0
+FLAМЕ,Angela,Convoy,1.0
+FLAМЕ,Angela,Domination,1.0
+FLAМЕ,Emma Frost,Convoy,1.0
+FLAМЕ,Gambit,Convergence,1.0
+FLAМЕ,Gambit,Domination,0.0
+FLAМЕ,Invisible Woman,Convergence,0.5
+FLAМЕ,Invisible Woman,Convoy,0.6666666666666666
+FLAМЕ,Invisible Woman,Domination,1.0
+FLAМЕ,Loki,Domination,0.0
+FLAМЕ,Magneto,Convoy,0.5
+FLAМЕ,Mantis,Convoy,0.0
+FLAМЕ,Star-Lord,Convergence,1.0
+FLAМЕ,Winter Soldier,Convergence,0.0
+FLAМЕ,Winter Soldier,Convoy,1.0
+FLAМЕ,Winter Soldier,Domination,0.0
+FLY Veswa,Emma Frost,Convergence,0.0
+FLY Veswa,Emma Frost,Convoy,0.0
+FLY Veswa,Groot,Convergence,0.5
+FLY Veswa,Magneto,Convergence,0.5
+FLY Veswa,Magneto,Convoy,0.75
+FLY Veswa,Magneto,Domination,0.75
+FLY Veswa,Venom,Convergence,0.5
+FLY Veswa,Venom,Convoy,0.0
+Falcon 67,Gambit,Convergence,1.0
+Falcon 67,Gambit,Domination,0.0
+Falcon 67,Hawkeye,Convergence,0.5
+Falcon 67,Hawkeye,Convoy,0.3333333333333333
+Falcon 67,Hawkeye,Domination,0.5
+Falcon 67,Invisible Woman,Convoy,1.0
+Falcon 67,Invisible Woman,Domination,1.0
+Falcon 67,Mantis,Convergence,1.0
+Falcon 67,Mantis,Convoy,1.0
+Falcon 67,Mantis,Domination,0.3333333333333333
+Falcon 67,Peni Parker,Convergence,1.0
+Falcon 67,Peni Parker,Convoy,1.0
+Falcon 67,Rocket Raccoon,Convergence,0.5
+FamineDevil,Emma Frost,Convergence,1.0
+FamineDevil,Emma Frost,Convoy,1.0
+FamineDevil,Emma Frost,Domination,0.5
+FamineDevil,Phoenix,Convergence,0.5
+FamineDevil,Phoenix,Domination,1.0
+FamineDevil,Psylocke,Convergence,1.0
+FamineDevil,Psylocke,Convoy,0.875
+FamineDevil,Psylocke,Domination,0.6666666666666666
+FamineDevil,Star-Lord,Convergence,0.0
+FamineDevil,Star-Lord,Convoy,1.0
+FamineDevil,Star-Lord,Domination,1.0
+Farthy,Emma Frost,Convergence,1.0
+Farthy,Emma Frost,Convoy,0.6666666666666666
+Farthy,Emma Frost,Domination,0.5
+Farthy,Winter Soldier,Convergence,0.6
+Farthy,Winter Soldier,Convoy,0.5
+Farthy,Winter Soldier,Domination,0.75
+Farthy,Wolverine,Convergence,0.5
+Farthy,Wolverine,Convoy,1.0
+Farthy,Wolverine,Domination,1.0
+Fidel,Gambit,Convergence,0.0
+Fidel,Gambit,Convoy,0.75
+Fidel,Gambit,Domination,0.6666666666666666
+Fidel,Invisible Woman,Convoy,0.6666666666666666
+Fidel,Invisible Woman,Domination,0.0
+Fidel,Loki,Convergence,0.5
+Fidel,Loki,Convoy,0.5
+Fidel,Loki,Domination,1.0
+Fidel,Mantis,Convergence,1.0
+Fidel,Mantis,Convoy,1.0
+Fidel,Mantis,Domination,1.0
+Fidel,Rocket Raccoon,Convergence,1.0
+Fidel,Rocket Raccoon,Convoy,1.0
+Finnsi,Captain America,Convoy,0.0
+Finnsi,Captain America,Domination,0.0
+Finnsi,Doctor Strange,Convergence,1.0
+Finnsi,Emma Frost,Convergence,0.0
+Finnsi,Groot,Convergence,0.3333333333333333
+Finnsi,Groot,Convoy,0.6666666666666666
+Finnsi,Groot,Domination,0.6666666666666666
+Finnsi,Magneto,Convergence,0.3333333333333333
+Finnsi,Magneto,Domination,0.5
+Flamayyᵗᵗᵛ,Angela,Domination,0.5
+Flamayyᵗᵗᵛ,Emma Frost,Domination,0.0
+Flamayyᵗᵗᵛ,Gambit,Convoy,0.3333333333333333
+Flamayyᵗᵗᵛ,Gambit,Domination,1.0
+Flamayyᵗᵗᵛ,Groot,Convergence,0.0
+Flamayyᵗᵗᵛ,Groot,Convoy,1.0
+Flamayyᵗᵗᵛ,Invisible Woman,Convergence,1.0
+Flamayyᵗᵗᵛ,Invisible Woman,Convoy,1.0
+Flamayyᵗᵗᵛ,Invisible Woman,Domination,0.5
+Flamayyᵗᵗᵛ,Loki,Convergence,0.0
+Flamayyᵗᵗᵛ,Loki,Convoy,1.0
+Flamayyᵗᵗᵛ,Magneto,Domination,0.0
+Flamayyᵗᵗᵛ,Mantis,Convergence,1.0
+Flamayyᵗᵗᵛ,Mantis,Convoy,0.0
+Flamayyᵗᵗᵛ,Venom,Convoy,0.0
+Fox.-,Angela,Convergence,0.8571428571428571
+Fox.-,Angela,Convoy,0.0
+Fox.-,Angela,Domination,0.6666666666666666
+Fox.-,Doctor Strange,Domination,1.0
+Fox.-,Emma Frost,Domination,0.3333333333333333
+Fox.-,Groot,Convoy,1.0
+Fox.-,Groot,Domination,0.0
+Fox.-,Magneto,Convergence,0.5
+Fox.-,Magneto,Convoy,1.0
+Franco Morales,Angela,Convoy,1.0
+Franco Morales,Gambit,Domination,1.0
+Franco Morales,Invisible Woman,Convoy,0.0
+Franco Morales,Loki,Convergence,0.75
+Franco Morales,Loki,Domination,0.5
+Franco Morales,Magneto,Convergence,0.0
+Franco Morales,Magneto,Convoy,1.0
+Franco Morales,Moon Knight,Domination,1.0
+Franco Morales,Namor,Convergence,0.25
+Franco Morales,Namor,Convoy,1.0
+Franco Morales,Namor,Domination,1.0
+Franco Morales,Venom,Domination,0.0
+Franco Morales,Winter Soldier,Domination,1.0
+FullMetalLamps,Angela,Convergence,0.75
+FullMetalLamps,Angela,Convoy,0.5
+FullMetalLamps,Angela,Domination,0.8571428571428571
+FullMetalLamps,Gambit,Convergence,0.0
+FullMetalLamps,Loki,Convoy,0.0
+FullMetalLamps,Magneto,Convergence,0.0
+FullMetalLamps,Magneto,Domination,0.5
+FullMetalLamps,Peni Parker,Convergence,1.0
+FullMetalLamps,Peni Parker,Convoy,1.0
+FullMetalLamps,Peni Parker,Domination,1.0
+GAВRIEL,Emma Frost,Convoy,0.5
+GAВRIEL,Gambit,Convergence,1.0
+GAВRIEL,Groot,Convergence,1.0
+GAВRIEL,Groot,Convoy,0.3333333333333333
+GAВRIEL,Groot,Domination,0.8333333333333334
+GAВRIEL,Hawkeye,Convergence,1.0
+GAВRIEL,Hawkeye,Convoy,0.0
+GAВRIEL,Magneto,Convoy,1.0
+GAВRIEL,Mantis,Domination,0.0
+GAВRIEL,Namor,Domination,1.0
+GAВRIEL,Phoenix,Convergence,1.0
+GAВRIEL,Phoenix,Convoy,0.0
+GAВRIEL,Rocket Raccoon,Convoy,0.0
+GAВRIEL,Star-Lord,Domination,1.0
+GAВRIEL,Winter Soldier,Convergence,0.0
+GAВRIEL,Winter Soldier,Convoy,1.0
+GAВRIEL,Wolverine,Domination,1.0
+Gilbert Noodle,Adam Warlock,Convoy,0.0
+Gilbert Noodle,Emma Frost,Convergence,0.0
+Gilbert Noodle,Emma Frost,Convoy,1.0
+Gilbert Noodle,Emma Frost,Domination,1.0
+Gilbert Noodle,Gambit,Convergence,0.0
+Gilbert Noodle,Invisible Woman,Convergence,0.6666666666666666
+Gilbert Noodle,Invisible Woman,Convoy,0.0
+Gilbert Noodle,Invisible Woman,Domination,0.0
+Gilbert Noodle,Jeff The Land Shark,Convergence,0.0
+Gilbert Noodle,Magneto,Convergence,1.0
+Gilbert Noodle,Magneto,Convoy,0.3333333333333333
+Gilbert Noodle,Magneto,Domination,0.0
+Gilbert Noodle,Mister Fantastic,Convoy,1.0
+Gilbert Noodle,Peni Parker,Convergence,1.0
+Gilbert Noodle,Venom,Convoy,1.0
+Gilbert Noodle,Winter Soldier,Convergence,0.0
+Goma,Hela,Convergence,1.0
+Goma,Jeff The Land Shark,Domination,0.0
+Goma,Magik,Convoy,0.5
+Goma,Phoenix,Convergence,1.0
+Goma,Psylocke,Convergence,0.5
+Goma,Psylocke,Convoy,0.6666666666666666
+Goma,Psylocke,Domination,0.6
+Goma,Winter Soldier,Domination,0.5
+Haluk,Angela,Domination,1.0
+Haluk,Captain America,Domination,0.0
+Haluk,Groot,Convoy,0.5
+Haluk,Groot,Domination,0.0
+Haluk,Invisible Woman,Convergence,1.0
+Haluk,Invisible Woman,Convoy,0.0
+Haluk,Loki,Convergence,0.0
+Haluk,Magneto,Convergence,1.0
+Haluk,Phoenix,Convergence,1.0
+Haluk,Phoenix,Convoy,1.0
+Haluk,Psylocke,Convergence,1.0
+Haluk,Star-Lord,Convergence,1.0
+Haluk,Star-Lord,Domination,0.5
+Haluk,Venom,Convergence,1.0
+Haluk,Venom,Convoy,0.0
+Haluk,Venom,Domination,0.4
+HavocHM,Angela,Convergence,0.6666666666666666
+HavocHM,Angela,Convoy,0.6
+HavocHM,Angela,Domination,1.0
+HavocHM,Doctor Strange,Convoy,1.0
+HavocHM,Emma Frost,Convoy,0.0
+HavocHM,Groot,Convergence,1.0
+HavocHM,Groot,Convoy,0.0
+HavocHM,Magneto,Convergence,1.0
+HavocHM,Magneto,Convoy,1.0
+HavocHM,Magneto,Domination,0.0
+HavocHM,Wolverine,Convergence,0.0
+HavocHM,Wolverine,Convoy,0.6666666666666666
+HavocHM,Wolverine,Domination,1.0
+HellCatL0ver,Angela,Convergence,1.0
+HellCatL0ver,Angela,Convoy,1.0
+HellCatL0ver,Blade,Convergence,0.3333333333333333
+HellCatL0ver,Blade,Convoy,1.0
+HellCatL0ver,Blade,Domination,0.6666666666666666
+HellCatL0ver,Daredevil,Convoy,0.0
+HellCatL0ver,Emma Frost,Convoy,0.0
+HellCatL0ver,Emma Frost,Domination,1.0
+HellCatL0ver,Groot,Convergence,1.0
+HellCatL0ver,Wolverine,Convergence,0.0
+HellCatL0ver,Wolverine,Convoy,0.5
+HellCatL0ver,Wolverine,Domination,1.0
+Hex>_<,Gambit,Convoy,0.0
+Hex>_<,Gambit,Domination,0.0
+Hex>_<,Invisible Woman,Convoy,1.0
+Hex>_<,Invisible Woman,Domination,1.0
+Hex>_<,Loki,Convoy,1.0
+Hex>_<,Loki,Domination,1.0
+Hex>_<,Luna Snow,Convoy,1.0
+Hex>_<,Luna Snow,Domination,1.0
+Hex>_<,Magneto,Convergence,0.0
+Hex>_<,Magneto,Domination,0.0
+Hex>_<,Rocket Raccoon,Convergence,1.0
+Hex>_<,Venom,Convergence,0.6666666666666666
+Hex>_<,Venom,Convoy,0.4
+Hex>_<,Venom,Domination,0.5
+Hudwinx,Gambit,Domination,0.6666666666666666
+Hudwinx,Invisible Woman,Domination,1.0
+Hudwinx,Loki,Convergence,0.6666666666666666
+Hudwinx,Loki,Convoy,0.5714285714285714
+Hudwinx,Loki,Domination,0.8
+Hudwinx,Rocket Raccoon,Convergence,1.0
+Hudwinx,Rocket Raccoon,Convoy,0.5
+Hоffman,Cloak & Dagger,Convergence,0.0
+Hоffman,Emma Frost,Convergence,0.0
+Hоffman,Emma Frost,Domination,0.0
+Hоffman,Gambit,Convergence,1.0
+Hоffman,Gambit,Convoy,1.0
+Hоffman,Gambit,Domination,0.0
+Hоffman,Groot,Convergence,0.5
+Hоffman,Groot,Convoy,1.0
+Hоffman,Groot,Domination,1.0
+Hоffman,Loki,Convoy,0.0
+Hоffman,Luna Snow,Convergence,1.0
+Hоffman,Magneto,Convergence,1.0
+Hоffman,Magneto,Convoy,1.0
+Hоffman,Magneto,Domination,1.0
+Hоffman,Namor,Domination,0.0
+Hоffman,Rocket Raccoon,Convergence,1.0
+Hоffman,Rocket Raccoon,Convoy,1.0
+Hоffman,Rocket Raccoon,Domination,1.0
+Hоffman,Star-Lord,Domination,0.0
+Hоffman,Winter Soldier,Convoy,0.0
+Hоffman,Winter Soldier,Domination,0.0
+I AM MISCHIEF,Invisible Woman,Convergence,1.0
+I AM MISCHIEF,Invisible Woman,Domination,0.0
+I AM MISCHIEF,Loki,Convergence,1.0
+I AM MISCHIEF,Loki,Convoy,0.3333333333333333
+I AM MISCHIEF,Loki,Domination,0.5
+I AM MISCHIEF,Luna Snow,Domination,1.0
+I AM MISCHIEF,Magneto,Convergence,0.3333333333333333
+I AM MISCHIEF,Magneto,Convoy,0.0
+I AM MISCHIEF,Wolverine,Convergence,0.75
+I AM MISCHIEF,Wolverine,Convoy,0.8
+I AM MISCHIEF,Wolverine,Domination,1.0
+IlIIllIIIllIll,Daredevil,Convoy,0.0
+IlIIllIIIllIll,Gambit,Convergence,0.5
+IlIIllIIIllIll,Gambit,Convoy,0.75
+IlIIllIIIllIll,Gambit,Domination,1.0
+IlIIllIIIllIll,Groot,Convoy,0.0
+IlIIllIIIllIll,Iron Fist,Convergence,0.0
+IlIIllIIIllIll,Iron Fist,Convoy,1.0
+IlIIllIIIllIll,Mantis,Domination,0.0
+IlIIllIIIllIll,Rocket Raccoon,Convergence,1.0
+IlIIllIIIllIll,Rocket Raccoon,Convoy,1.0
+IlIIllIIIllIll,Rocket Raccoon,Domination,1.0
+IlIIllIIIllIll,Spider-Man,Domination,1.0
+Ilya Rozanov,Gambit,Convergence,0.0
+Ilya Rozanov,Invisible Woman,Convergence,0.5
+Ilya Rozanov,Invisible Woman,Convoy,0.3333333333333333
+Ilya Rozanov,Invisible Woman,Domination,0.5
+Ilya Rozanov,Loki,Convoy,1.0
+Ilya Rozanov,Loki,Domination,0.6666666666666666
+Ilya Rozanov,Mantis,Convergence,0.6666666666666666
+Ilya Rozanov,Mantis,Convoy,1.0
+Ilya Rozanov,Mantis,Domination,1.0
+Impuniti,Captain America,Convoy,1.0
+Impuniti,Captain America,Domination,0.0
+Impuniti,Groot,Convergence,0.6666666666666666
+Impuniti,Groot,Convoy,0.5
+Impuniti,Groot,Domination,0.0
+Impuniti,Magneto,Convergence,0.5
+Impuniti,Magneto,Domination,0.0
+Impuniti,Mantis,Convoy,1.0
+Impuniti,Rocket Raccoon,Convergence,0.0
+Impuniti,Rocket Raccoon,Convoy,1.0
+Impuniti,Storm,Domination,1.0
+Impuniti,Venom,Domination,0.0
+Impuniti,Winter Soldier,Convoy,0.0
+Iogаn,Emma Frost,Convoy,0.6666666666666666
+Iogаn,Emma Frost,Domination,1.0
+Iogаn,Gambit,Convoy,1.0
+Iogаn,Gambit,Domination,0.0
+Iogаn,Invisible Woman,Convergence,0.5
+Iogаn,Invisible Woman,Convoy,1.0
+Iogаn,Invisible Woman,Domination,0.5
+Iogаn,Loki,Convergence,0.0
+Iogаn,Loki,Convoy,0.0
+Iogаn,Loki,Domination,1.0
+Iogаn,Magneto,Convergence,0.0
+Iogаn,Magneto,Convoy,0.0
+Iogаn,Magneto,Domination,1.0
+Iogаn,Mantis,Convoy,1.0
+Izec,Angela,Convergence,0.75
+Izec,Angela,Convoy,0.0
+Izec,Angela,Domination,0.6666666666666666
+Izec,Captain America,Convergence,1.0
+Izec,Captain America,Domination,0.3333333333333333
+Izec,Emma Frost,Convergence,0.3333333333333333
+Izec,Emma Frost,Convoy,0.5
+Izec,Emma Frost,Domination,0.6666666666666666
+Izec,Jeff The Land Shark,Domination,0.0
+Izec,Venom,Convoy,1.0
+Izec,Venom,Domination,0.0
+Izzecc,Angela,Convergence,0.75
+Izzecc,Angela,Convoy,0.3333333333333333
+Izzecc,Angela,Domination,0.5
+Izzecc,Captain America,Domination,1.0
+Izzecc,Emma Frost,Convergence,0.6666666666666666
+Izzecc,Emma Frost,Convoy,1.0
+Izzecc,Emma Frost,Domination,0.6666666666666666
+Izzecc,Groot,Convergence,1.0
+Izzecc,Groot,Convoy,0.5
+Izzecc,Magneto,Convoy,1.0
+Izzecc,Venom,Domination,1.0
+Izzzeccc,Angela,Convoy,1.0
+Izzzeccc,Angela,Domination,1.0
+Izzzeccc,Emma Frost,Convergence,0.3333333333333333
+Izzzeccc,Emma Frost,Convoy,0.5
+Izzzeccc,Emma Frost,Domination,0.5
+Izzzeccc,Groot,Convergence,0.0
+Izzzeccc,Groot,Convoy,1.0
+Izzzeccc,Invisible Woman,Convoy,0.0
+Izzzeccc,Magneto,Convergence,0.0
+Izzzeccc,Mantis,Convergence,1.0
+Izzzeccc,Mantis,Convoy,1.0
+Izzzeccc,Venom,Convergence,1.0
+Izzzeccc,Winter Soldier,Convoy,1.0
+Izzzeccc,Winter Soldier,Domination,0.0
+Izzzeccc,Wolverine,Domination,1.0
+Jamonsitxo,Gambit,Convergence,0.5
+Jamonsitxo,Gambit,Convoy,1.0
+Jamonsitxo,Gambit,Domination,1.0
+Jamonsitxo,Hela,Convoy,0.5
+Jamonsitxo,Luna Snow,Domination,1.0
+Jamonsitxo,Mantis,Convergence,0.0
+Jamonsitxo,Namor,Domination,1.0
+Jamonsitxo,Phoenix,Convergence,0.3333333333333333
+Jamonsitxo,Phoenix,Convoy,0.5
+Jamonsitxo,Phoenix,Domination,0.6666666666666666
+Jamonsitxo,Star-Lord,Convoy,0.0
+Jeremy,Thor,Convergence,0.5454545454545454
+Jeremy,Thor,Convoy,0.75
+Jeremy,Thor,Domination,0.7
+Jitward,Angela,Convergence,0.0
+Jitward,Angela,Domination,1.0
+Jitward,Daredevil,Convergence,1.0
+Jitward,Daredevil,Convoy,1.0
+Jitward,Daredevil,Domination,1.0
+Jitward,Hawkeye,Convergence,0.0
+Jitward,Hawkeye,Convoy,1.0
+Jitward,Psylocke,Convergence,0.5
+Jitward,Spider-Man,Convergence,1.0
+Jitward,Spider-Man,Convoy,0.8333333333333334
+Jitward,Spider-Man,Domination,0.25
+Jitward,Winter Soldier,Convoy,1.0
+Jitward,Winter Soldier,Domination,0.0
+Jаshido,Bruce Banner,Convoy,1.0
+Jаshido,Moon Knight,Convergence,0.3333333333333333
+Jаshido,Moon Knight,Convoy,0.7777777777777778
+Jаshido,Moon Knight,Domination,0.5714285714285714
+Jаshido,Winter Soldier,Convergence,0.0
+Jаshido,Winter Soldier,Domination,1.0
+KING BØB.,Angela,Convergence,1.0
+KING BØB.,Angela,Convoy,0.3333333333333333
+KING BØB.,Angela,Domination,0.5
+KING BØB.,Invisible Woman,Convergence,1.0
+KING BØB.,Invisible Woman,Domination,1.0
+KING BØB.,Luna Snow,Convoy,1.0
+KING BØB.,Magneto,Convergence,1.0
+KING BØB.,Magneto,Convoy,1.0
+KING BØB.,Magneto,Domination,0.8
+KING BØB.,Psylocke,Domination,0.0
+KING BØB.,Rocket Raccoon,Domination,0.0
+KING BØB.,Star-Lord,Domination,0.0
+KING BØB.,Wolverine,Convergence,0.5
+KINЕTIC,Cloak & Dagger,Convergence,0.0
+KINЕTIC,Cloak & Dagger,Domination,1.0
+KINЕTIC,Emma Frost,Convoy,1.0
+KINЕTIC,Emma Frost,Domination,0.0
+KINЕTIC,Gambit,Convergence,0.5
+KINЕTIC,Gambit,Convoy,0.6666666666666666
+KINЕTIC,Gambit,Domination,0.75
+KINЕTIC,Invisible Woman,Convergence,1.0
+KINЕTIC,Invisible Woman,Convoy,1.0
+KINЕTIC,Invisible Woman,Domination,0.6666666666666666
+KINЕTIC,Loki,Convergence,1.0
+KINЕTIC,Loki,Convoy,1.0
+KINЕTIC,Mantis,Domination,1.0
+KNGSMN,Doctor Strange,Domination,0.0
+KNGSMN,Emma Frost,Convoy,0.5
+KNGSMN,Emma Frost,Domination,0.0
+KNGSMN,Invisible Woman,Convergence,1.0
+KNGSMN,Magik,Convergence,0.75
+KNGSMN,Magik,Convoy,0.6666666666666666
+KNGSMN,Magik,Domination,0.8571428571428571
+KNGSMN,Magneto,Domination,1.0
+KNGSMN,Namor,Domination,0.0
+Kar Kar,Angela,Convergence,1.0
+Kar Kar,Blade,Domination,1.0
+Kar Kar,Bruce Banner,Convoy,1.0
+Kar Kar,Cloak & Dagger,Convoy,1.0
+Kar Kar,Cloak & Dagger,Domination,1.0
+Kar Kar,Emma Frost,Domination,0.75
+Kar Kar,Magneto,Convergence,1.0
+Kar Kar,Magneto,Convoy,1.0
+Kar Kar,Magneto,Domination,1.0
+Kar Kar,Rocket Raccoon,Convoy,0.0
+Kar Kar,The Thing,Domination,0.5
+Kar Kar,Thor,Convergence,1.0
+Kar Kar,Ultron,Convergence,0.0
+Kar Kar,Wolverine,Convergence,1.0
+Kar Kar,Wolverine,Convoy,0.5
+Kar Kar,Wolverine,Domination,1.0
+Kinetic Flower,Cloak & Dagger,Convergence,1.0
+Kinetic Flower,Emma Frost,Convoy,1.0
+Kinetic Flower,Gambit,Convergence,1.0
+Kinetic Flower,Gambit,Convoy,0.5
+Kinetic Flower,Gambit,Domination,0.75
+Kinetic Flower,Invisible Woman,Convergence,1.0
+Kinetic Flower,Invisible Woman,Convoy,1.0
+Kinetic Flower,Invisible Woman,Domination,0.0
+Kinetic Flower,Loki,Convergence,0.0
+Kinetic Flower,Loki,Convoy,1.0
+Kinetic Flower,Loki,Domination,0.6666666666666666
+Kinetic Flower,Star-Lord,Convoy,0.0
+KingOfCards.,Gambit,Convergence,0.7142857142857143
+KingOfCards.,Gambit,Convoy,0.5555555555555556
+KingOfCards.,Gambit,Domination,0.6666666666666666
+KingOfCards.,Magneto,Convergence,0.0
+KingOfCards.,Magneto,Domination,1.0
+KingOfCards.,Mantis,Domination,1.0
+Kontaba,Doctor Strange,Convoy,1.0
+Kontaba,Doctor Strange,Domination,1.0
+Kontaba,Emma Frost,Convergence,0.8
+Kontaba,Emma Frost,Convoy,0.6666666666666666
+Kontaba,Emma Frost,Domination,0.5714285714285714
+Kontaba,Groot,Convergence,1.0
+Kontaba,Magneto,Convergence,1.0
+Kontaba,Magneto,Convoy,1.0
+Kontaba,Magneto,Domination,0.6666666666666666
+Korea Leader,Black Widow,Convoy,1.0
+Korea Leader,Hela,Domination,0.0
+Korea Leader,Namor,Domination,1.0
+Korea Leader,Phoenix,Convergence,1.0
+Korea Leader,Phoenix,Convoy,0.0
+Korea Leader,Star-Lord,Convergence,0.6666666666666666
+Korea Leader,Star-Lord,Convoy,1.0
+Korea Leader,Star-Lord,Domination,0.7142857142857143
+Korea Leader,Wolverine,Convergence,1.0
+Kragiе,Captain America,Convoy,1.0
+Kragiе,Captain America,Domination,0.0
+Kragiе,Gambit,Convoy,1.0
+Kragiе,Groot,Convergence,1.0
+Kragiе,Groot,Convoy,1.0
+Kragiе,Hela,Convergence,1.0
+Kragiе,Hela,Convoy,0.5
+Kragiе,Hela,Domination,0.6666666666666666
+Kragiе,Jeff The Land Shark,Convoy,0.0
+Kragiе,Magneto,Convoy,1.0
+Kragiе,Magneto,Domination,0.5
+Kragiе,Namor,Convoy,1.0
+Kragiе,Rocket Raccoon,Convergence,1.0
+Kragiе,Rocket Raccoon,Convoy,1.0
+Kragiе,Star-Lord,Convergence,0.6666666666666666
+Kragiе,Star-Lord,Convoy,1.0
+LF Job,Angela,Convergence,0.8
+LF Job,Angela,Convoy,1.0
+LF Job,Angela,Domination,1.0
+LF Job,Emma Frost,Convergence,1.0
+LF Job,Emma Frost,Convoy,1.0
+LF Job,Emma Frost,Domination,0.4
+LF Job,Magneto,Convergence,0.0
+LF Job,Magneto,Convoy,1.0
+LF Job,Star-Lord,Convergence,0.0
+LF Job,Star-Lord,Domination,0.0
+LF Job,Venom,Domination,0.0
+LFT Unovvn,Angela,Convoy,1.0
+LFT Unovvn,Doctor Strange,Domination,1.0
+LFT Unovvn,Emma Frost,Convergence,1.0
+LFT Unovvn,Emma Frost,Convoy,1.0
+LFT Unovvn,Emma Frost,Domination,0.5
+LFT Unovvn,Groot,Convergence,0.5
+LFT Unovvn,Groot,Convoy,0.3333333333333333
+LFT Unovvn,Groot,Domination,0.0
+LFT Unovvn,Invisible Woman,Convergence,0.0
+LFT Unovvn,Invisible Woman,Domination,1.0
+LFT Unovvn,Loki,Domination,1.0
+LFT Unovvn,Magneto,Convergence,0.0
+LFT Unovvn,Magneto,Domination,1.0
+LFT Unovvn,Mantis,Convergence,1.0
+LFT Unovvn,Mantis,Convoy,1.0
+LFT Unovvn,Mantis,Domination,0.0
+LFT Unovvn,Rocket Raccoon,Domination,1.0
+LFT Webs,Gambit,Convergence,0.5
+LFT Webs,Gambit,Convoy,1.0
+LFT Webs,Gambit,Domination,1.0
+LFT Webs,Invisible Woman,Convergence,0.0
+LFT Webs,Invisible Woman,Convoy,0.3333333333333333
+LFT Webs,Invisible Woman,Domination,0.5
+LFT Webs,Jeff The Land Shark,Domination,0.0
+LFT Webs,Luna Snow,Convoy,1.0
+LFT Webs,Luna Snow,Domination,1.0
+LFT Webs,Mantis,Convoy,1.0
+LFT Webs,Rocket Raccoon,Convergence,1.0
+LFTanuki,Blade,Convergence,1.0
+LFTanuki,Daredevil,Convergence,0.0
+LFTanuki,Daredevil,Convoy,1.0
+LFTanuki,Gambit,Convergence,1.0
+LFTanuki,Gambit,Convoy,0.3333333333333333
+LFTanuki,Gambit,Domination,1.0
+LFTanuki,Mantis,Domination,0.75
+LFTanuki,Namor,Convergence,1.0
+LFTanuki,Namor,Domination,0.5
+LFTanuki,Phoenix,Convergence,1.0
+LFTanuki,Psylocke,Domination,0.0
+LFTanuki,Star-Lord,Convergence,0.0
+LFTanuki,Wolverine,Convoy,1.0
+Libbbbbbbbbbbb,Angela,Convergence,0.0
+Libbbbbbbbbbbb,Angela,Convoy,1.0
+Libbbbbbbbbbbb,Hela,Convergence,0.5
+Libbbbbbbbbbbb,Hela,Domination,1.0
+Libbbbbbbbbbbb,Mister Fantastic,Convergence,1.0
+Libbbbbbbbbbbb,Mister Fantastic,Domination,1.0
+Libbbbbbbbbbbb,Phoenix,Convergence,0.0
+Libbbbbbbbbbbb,Phoenix,Domination,0.3333333333333333
+Libbbbbbbbbbbb,Psylocke,Convergence,0.0
+Libbbbbbbbbbbb,Psylocke,Convoy,1.0
+Libbbbbbbbbbbb,Psylocke,Domination,0.5
+Libbbbbbbbbbbb,Star-Lord,Convergence,1.0
+Libbbbbbbbbbbb,Star-Lord,Domination,1.0
+Libbbbbbbbbbbb,The Thing,Convergence,0.0
+Libbbbbbbbbbbb,Winter Soldier,Convergence,0.0
+Libbbbbbbbbbbb,Wolverine,Convoy,1.0
+Libbbbbbbbbbbb,Wolverine,Domination,0.0
+Lifebound,Gambit,Convergence,0.0
+Lifebound,Gambit,Convoy,0.75
+Lifebound,Gambit,Domination,1.0
+Lifebound,Invisible Woman,Convergence,0.0
+Lifebound,Loki,Domination,0.75
+Lifebound,Luna Snow,Domination,1.0
+Lifebound,Magneto,Convergence,1.0
+Lifebound,Magneto,Convoy,1.0
+Lifebound,Phoenix,Convergence,0.0
+Lifebound,Phoenix,Convoy,0.0
+Lifebound,Phoenix,Domination,0.0
+Lifebound,The Punisher,Domination,1.0
+Lifebound,Winter Soldier,Convoy,0.0
+LilChouzziVert,Hela,Convoy,1.0
+LilChouzziVert,Phoenix,Convergence,1.0
+LilChouzziVert,Phoenix,Convoy,0.7142857142857143
+LilChouzziVert,Phoenix,Domination,0.5555555555555556
+LilChouzziVert,Psylocke,Convergence,0.6666666666666666
+LilChouzziVert,Psylocke,Convoy,1.0
+LilClanka,Angela,Convoy,1.0
+LilClanka,Gambit,Convergence,0.75
+LilClanka,Gambit,Convoy,0.5
+LilClanka,Gambit,Domination,0.6666666666666666
+LilClanka,Hela,Convergence,0.0
+LilClanka,Jeff The Land Shark,Convoy,1.0
+LilClanka,Jeff The Land Shark,Domination,1.0
+LilClanka,Loki,Convergence,1.0
+LilClanka,Loki,Domination,1.0
+LilClanka,Luna Snow,Convergence,0.0
+LilClanka,Magneto,Convergence,1.0
+LilClanka,Magneto,Convoy,0.0
+LilClanka,Psylocke,Convoy,0.0
+LilClanka,Rocket Raccoon,Convergence,1.0
+LilClanka,Rocket Raccoon,Convoy,1.0
+LilGupGup,Daredevil,Domination,1.0
+LilGupGup,Gambit,Convergence,0.6666666666666666
+LilGupGup,Gambit,Convoy,1.0
+LilGupGup,Gambit,Domination,1.0
+LilGupGup,Groot,Convergence,1.0
+LilGupGup,Hela,Convoy,1.0
+LilGupGup,Mantis,Convergence,1.0
+LilGupGup,Mantis,Convoy,1.0
+LilGupGup,Mantis,Domination,0.5
+LilGupGup,Namor,Convergence,1.0
+LilGupGup,Phoenix,Convergence,0.3333333333333333
+LilGupGup,Phoenix,Convoy,0.42857142857142855
+LilGupGup,Winter Soldier,Domination,1.0
+Lindstrom,Emma Frost,Domination,1.0
+Lindstrom,Gambit,Convoy,1.0
+Lindstrom,Gambit,Domination,0.0
+Lindstrom,Hela,Convergence,1.0
+Lindstrom,Invisible Woman,Convergence,0.0
+Lindstrom,Invisible Woman,Convoy,0.0
+Lindstrom,Invisible Woman,Domination,1.0
+Lindstrom,Loki,Convergence,1.0
+Lindstrom,Loki,Domination,1.0
+Lindstrom,Luna Snow,Convergence,0.0
+Lindstrom,Magneto,Convergence,0.5
+Lindstrom,Magneto,Convoy,1.0
+Lindstrom,Magneto,Domination,0.0
+Lindstrom,Phoenix,Convoy,0.0
+Lindstrom,Rocket Raccoon,Convoy,1.0
+Lindstrom,Winter Soldier,Domination,0.0
+Linepro,Gambit,Convergence,0.3333333333333333
+Linepro,Gambit,Convoy,0.4
+Linepro,Gambit,Domination,0.6666666666666666
+Linepro,Invisible Woman,Convergence,1.0
+Linepro,Invisible Woman,Convoy,0.0
+Linepro,Invisible Woman,Domination,0.6666666666666666
+Linepro,Loki,Convoy,1.0
+Linepro,Rocket Raccoon,Convergence,0.0
+Linepro,Rocket Raccoon,Convoy,1.0
+Loubanger,Invisible Woman,Convergence,1.0
+Loubanger,Invisible Woman,Domination,0.0
+Loubanger,Iron Fist,Convergence,0.6666666666666666
+Loubanger,Iron Fist,Convoy,0.8333333333333334
+Loubanger,Iron Fist,Domination,0.5
+Loubanger,Mantis,Convergence,1.0
+Loubanger,Mantis,Convoy,0.5
+Loubanger,Mantis,Domination,1.0
+Loubanger,Moon Knight,Convergence,0.0
+Loubanger,Psylocke,Domination,1.0
+Lu Bu,Captain America,Convergence,1.0
+Lu Bu,Doctor Strange,Domination,0.0
+Lu Bu,Emma Frost,Convergence,0.5
+Lu Bu,Emma Frost,Convoy,0.6666666666666666
+Lu Bu,Emma Frost,Domination,0.0
+Lu Bu,Gambit,Domination,0.0
+Lu Bu,Magneto,Convergence,1.0
+Lu Bu,Magneto,Convoy,1.0
+Lu Bu,Magneto,Domination,1.0
+Lu Bu,Rocket Raccoon,Convergence,1.0
+Lu Bu,Rocket Raccoon,Domination,1.0
+Lu Bu,The Punisher,Convergence,1.0
+Lu Bu,The Punisher,Domination,1.0
+Lu Bu,Thor,Convoy,1.0
+Lu Bu,Venom,Convergence,0.5
+Lu Bu,Venom,Convoy,0.5
+Lu Bu,Venom,Domination,1.0
+LХVII,Daredevil,Convoy,0.0
+LХVII,Daredevil,Domination,1.0
+LХVII,Gambit,Convergence,0.0
+LХVII,Gambit,Convoy,0.0
+LХVII,Moon Knight,Convergence,0.75
+LХVII,Moon Knight,Domination,1.0
+LХVII,Spider-Man,Convergence,0.6666666666666666
+LХVII,Spider-Man,Convoy,0.25
+LХVII,Spider-Man,Domination,0.75
+LХVII,Winter Soldier,Convergence,1.0
+LХVII,Winter Soldier,Convoy,0.0
+LХVII,Wolverine,Convoy,1.0
+MACE,Angela,Convergence,1.0
+MACE,Angela,Convoy,1.0
+MACE,Angela,Domination,0.6666666666666666
+MACE,Emma Frost,Convergence,0.8333333333333334
+MACE,Emma Frost,Convoy,0.5
+MACE,Emma Frost,Domination,0.6666666666666666
+MACE,Magneto,Convergence,0.0
+MACE,Magneto,Convoy,0.0
+MILK141,Doctor Strange,Convoy,0.5
+MILK141,Doctor Strange,Domination,1.0
+MILK141,Emma Frost,Convergence,0.6
+MILK141,Emma Frost,Convoy,0.14285714285714285
+MILK141,Emma Frost,Domination,0.0
+MILK141,Groot,Convergence,1.0
+MILK141,Groot,Convoy,1.0
+MILK141,Magneto,Convergence,1.0
+MILK141,Magneto,Domination,1.0
+ML69ᵗᵗᵛ,Gambit,Convoy,1.0
+ML69ᵗᵗᵛ,Gambit,Domination,1.0
+ML69ᵗᵗᵛ,Invisible Woman,Convergence,1.0
+ML69ᵗᵗᵛ,Invisible Woman,Convoy,0.0
+ML69ᵗᵗᵛ,Invisible Woman,Domination,1.0
+ML69ᵗᵗᵛ,Jeff The Land Shark,Convergence,0.75
+ML69ᵗᵗᵛ,Jeff The Land Shark,Convoy,0.5
+ML69ᵗᵗᵛ,Jeff The Land Shark,Domination,0.7777777777777778
+ML69ᵗᵗᵛ,Rocket Raccoon,Convoy,0.3333333333333333
+ML69ᵗᵗᵛ,Rocket Raccoon,Domination,0.0
+Malenia,Emma Frost,Convoy,1.0
+Malenia,Gambit,Convergence,1.0
+Malenia,Gambit,Domination,0.0
+Malenia,Groot,Convergence,0.0
+Malenia,Groot,Convoy,1.0
+Malenia,Groot,Domination,0.5
+Malenia,Invisible Woman,Convergence,1.0
+Malenia,Invisible Woman,Convoy,1.0
+Malenia,Invisible Woman,Domination,1.0
+Malenia,Iron Fist,Convergence,1.0
+Malenia,Loki,Convoy,0.0
+Malenia,Loki,Domination,1.0
+Malenia,Namor,Convergence,1.0
+Malenia,Psylocke,Domination,0.5
+Malenia,Star-Lord,Convoy,1.0
+Malenia,Star-Lord,Domination,0.0
+Malenia,Venom,Convergence,1.0
+Malenia,Winter Soldier,Domination,1.0
+Malenia,Wolverine,Convergence,1.0
+Malenia,Wolverine,Domination,1.0
+MilleDidrik,Bruce Banner,Convergence,1.0
+MilleDidrik,Bruce Banner,Convoy,0.0
+MilleDidrik,Daredevil,Convergence,0.5
+MilleDidrik,Daredevil,Convoy,0.6
+MilleDidrik,Iron Fist,Convergence,0.0
+MilleDidrik,Jeff The Land Shark,Convergence,0.0
+MilleDidrik,Jeff The Land Shark,Domination,1.0
+MilleDidrik,Magneto,Domination,1.0
+MilleDidrik,The Punisher,Convoy,0.0
+MilleDidrik,Venom,Convoy,1.0
+MilleDidrik,Wolverine,Convoy,0.5
+MilleDidrik,Wolverine,Domination,0.875
+Misrokᵗᵛ,Emma Frost,Domination,1.0
+Misrokᵗᵛ,Hawkeye,Convergence,1.0
+Misrokᵗᵛ,Phoenix,Convergence,1.0
+Misrokᵗᵛ,Phoenix,Convoy,0.6666666666666666
+Misrokᵗᵛ,Phoenix,Domination,0.25
+Misrokᵗᵛ,Rocket Raccoon,Domination,0.0
+Misrokᵗᵛ,The Punisher,Convoy,1.0
+Misrokᵗᵛ,The Punisher,Domination,1.0
+Misrokᵗᵛ,Winter Soldier,Convergence,0.0
+Misrokᵗᵛ,Winter Soldier,Convoy,1.0
+Misrokᵗᵛ,Winter Soldier,Domination,0.6666666666666666
+Missin My Wife,Hawkeye,Convergence,0.5
+Missin My Wife,Hawkeye,Convoy,1.0
+Missin My Wife,Hawkeye,Domination,0.625
+Missin My Wife,Hela,Domination,0.0
+Missin My Wife,Jeff The Land Shark,Convoy,1.0
+Missin My Wife,Magik,Convergence,0.0
+Missin My Wife,Magik,Domination,1.0
+Missin My Wife,Namor,Convoy,0.0
+Missin My Wife,Phoenix,Domination,1.0
+MorganaLefay,Gambit,Convoy,0.0
+MorganaLefay,Gambit,Domination,0.0
+MorganaLefay,Hela,Convergence,0.0
+MorganaLefay,Invisible Woman,Convergence,0.8333333333333334
+MorganaLefay,Invisible Woman,Convoy,0.5714285714285714
+MorganaLefay,Invisible Woman,Domination,0.4
+MorganaLefay,Luna Snow,Convergence,0.5
+MorganaLefay,Luna Snow,Convoy,0.0
+Mémory,Gambit,Convergence,0.625
+Mémory,Gambit,Convoy,0.7142857142857143
+Mémory,Gambit,Domination,0.6
+Mémory,Invisible Woman,Convergence,0.3333333333333333
+Mémory,Luna Snow,Domination,1.0
+Mémory,Rocket Raccoon,Domination,1.0
+Mеssmеr.,Hela,Convergence,0.6666666666666666
+Mеssmеr.,Hela,Convoy,0.6666666666666666
+Mеssmеr.,Hela,Domination,0.42857142857142855
+Mеssmеr.,Phoenix,Convergence,0.5
+Mеssmеr.,Phoenix,Convoy,1.0
+Mеssmеr.,Phoenix,Domination,0.6666666666666666
+Mеssmеr.,Psylocke,Domination,1.0
+NERF GROOT,Emma Frost,Convergence,1.0
+NERF GROOT,Emma Frost,Convoy,1.0
+NERF GROOT,Groot,Convergence,0.5
+NERF GROOT,Groot,Convoy,0.8571428571428571
+NERF GROOT,Groot,Domination,0.8571428571428571
+NIBOOBOO MODE,Emma Frost,Convergence,0.375
+NIBOOBOO MODE,Emma Frost,Convoy,1.0
+NIBOOBOO MODE,Emma Frost,Domination,0.5
+NIBOOBOO MODE,Magneto,Convergence,0.0
+NIBOOBOO MODE,Magneto,Convoy,1.0
+NIBOOBOO MODE,Magneto,Domination,1.0
+NUM1 BTS FAN,Hela,Convergence,0.5
+NUM1 BTS FAN,Hela,Convoy,0.6666666666666666
+NUM1 BTS FAN,Hela,Domination,0.3333333333333333
+NUM1 BTS FAN,Phoenix,Convergence,1.0
+NUM1 BTS FAN,Phoenix,Convoy,0.6
+NUM1 BTS FAN,Phoenix,Domination,0.5
+NUM1 BTS FAN,Psylocke,Convoy,0.0
+NUM1 BTS FAN,Psylocke,Domination,1.0
+NUM1 BTS FAN,Star-Lord,Convoy,0.0
+NUM1 BTS FAN,Star-Lord,Domination,1.0
+NV sheep diary,Daredevil,Convoy,1.0
+NV sheep diary,Daredevil,Domination,0.3333333333333333
+NV sheep diary,Namor,Convergence,1.0
+NV sheep diary,Namor,Convoy,1.0
+NV sheep diary,Namor,Domination,1.0
+NV sheep diary,Phoenix,Convoy,0.0
+NV sheep diary,Phoenix,Domination,0.5
+NV sheep diary,Psylocke,Convergence,1.0
+NV sheep diary,Psylocke,Convoy,1.0
+NV sheep diary,Psylocke,Domination,0.0
+NV sheep diary,Squirrel Girl,Convoy,1.0
+NV sheep diary,Star-Lord,Domination,1.0
+NV sheep diary,Winter Soldier,Convoy,1.0
+NoDmgRocket,Gambit,Convergence,1.0
+NoDmgRocket,Gambit,Domination,0.5
+NoDmgRocket,Invisible Woman,Convoy,1.0
+NoDmgRocket,Invisible Woman,Domination,1.0
+NoDmgRocket,Loki,Convergence,0.0
+NoDmgRocket,Rocket Raccoon,Convergence,1.0
+NoDmgRocket,Rocket Raccoon,Convoy,0.8333333333333334
+NoDmgRocket,Rocket Raccoon,Domination,0.6666666666666666
+Nіnјa,Captain America,Convergence,0.2
+Nіnјa,Captain America,Domination,1.0
+Nіnјa,Doctor Strange,Domination,1.0
+Nіnјa,Gambit,Convoy,1.0
+Nіnјa,Hela,Convoy,0.5
+Nіnјa,Iron Fist,Domination,1.0
+Nіnјa,Iron Man,Convoy,1.0
+Nіnјa,Magneto,Convergence,0.6666666666666666
+Nіnјa,Magneto,Convoy,1.0
+Nіnјa,Magneto,Domination,1.0
+Nіnјa,Phoenix,Convergence,1.0
+Nіnјa,Star-Lord,Convergence,1.0
+Nіnјa,Star-Lord,Domination,0.0
+Nіnјa,Thor,Domination,1.0
+Nіnјa,Winter Soldier,Convergence,1.0
+ORN_ghostillas,Emma Frost,Convergence,0.0
+ORN_ghostillas,Emma Frost,Convoy,0.0
+ORN_ghostillas,Groot,Convergence,1.0
+ORN_ghostillas,Groot,Domination,1.0
+ORN_ghostillas,Hela,Convergence,0.0
+ORN_ghostillas,Invisible Woman,Domination,1.0
+ORN_ghostillas,Magneto,Convoy,0.0
+ORN_ghostillas,Moon Knight,Domination,1.0
+ORN_ghostillas,Namor,Convoy,1.0
+ORN_ghostillas,Phoenix,Convoy,1.0
+ORN_ghostillas,Phoenix,Domination,0.0
+ORN_ghostillas,Psylocke,Convergence,1.0
+ORN_ghostillas,Psylocke,Convoy,1.0
+ORN_ghostillas,Rocket Raccoon,Convergence,0.0
+ORN_ghostillas,Rocket Raccoon,Convoy,1.0
+ORN_ghostillas,Star-Lord,Convergence,1.0
+ORN_ghostillas,Star-Lord,Domination,0.5
+ORN_ghostillas,Winter Soldier,Convergence,0.0
+ORN_ghostillas,Winter Soldier,Convoy,0.0
+ORN_ghostillas,Winter Soldier,Domination,1.0
+Obv,Doctor Strange,Convoy,0.0
+Obv,Groot,Convergence,0.5
+Obv,Groot,Convoy,0.5
+Obv,Groot,Domination,0.0
+Obv,Magneto,Convergence,1.0
+Obv,Magneto,Convoy,0.0
+Obv,Namor,Convergence,0.0
+Obv,Namor,Convoy,1.0
+Obv,Namor,Domination,1.0
+Obv,Rocket Raccoon,Convergence,1.0
+Obv,Rocket Raccoon,Convoy,1.0
+Obv,Rocket Raccoon,Domination,0.5
+Obv,Star-Lord,Convoy,0.0
+Obv,Thor,Domination,0.0
+OffSwitchfps,Daredevil,Domination,1.0
+OffSwitchfps,Magneto,Convergence,0.6666666666666666
+OffSwitchfps,Magneto,Domination,0.5
+OffSwitchfps,Phoenix,Convergence,0.0
+OffSwitchfps,Phoenix,Domination,0.6666666666666666
+OffSwitchfps,Psylocke,Convergence,0.75
+OffSwitchfps,Psylocke,Convoy,0.6
+OffSwitchfps,Star-Lord,Domination,1.0
+OffSwitchfps,Winter Soldier,Convoy,0.6666666666666666
+Ol1ve,Angela,Convergence,1.0
+Ol1ve,Angela,Convoy,1.0
+Ol1ve,Angela,Domination,0.5
+Ol1ve,Captain America,Domination,0.5
+Ol1ve,Emma Frost,Convergence,0.0
+Ol1ve,Groot,Convergence,1.0
+Ol1ve,Groot,Domination,0.0
+Ol1ve,Magneto,Convergence,1.0
+Ol1ve,Magneto,Convoy,0.5
+Ol1ve,Magneto,Domination,0.6666666666666666
+Ol1ve,Rocket Raccoon,Convoy,1.0
+Ol1ve,Rocket Raccoon,Domination,1.0
+Oskie.,Doctor Strange,Convergence,0.0
+Oskie.,Jeff The Land Shark,Domination,0.0
+Oskie.,Luna Snow,Convoy,0.0
+Oskie.,Mantis,Convoy,0.0
+Oskie.,Rocket Raccoon,Convergence,0.8333333333333334
+Oskie.,Rocket Raccoon,Convoy,1.0
+Oskie.,Rocket Raccoon,Domination,0.5714285714285714
+Outside_Time,Angela,Convergence,0.6
+Outside_Time,Angela,Convoy,1.0
+Outside_Time,Angela,Domination,0.5714285714285714
+Outside_Time,Doctor Strange,Domination,1.0
+Outside_Time,Emma Frost,Convergence,0.3333333333333333
+Outside_Time,Emma Frost,Convoy,1.0
+Outside_Time,Emma Frost,Domination,1.0
+Outside_Time,Rocket Raccoon,Convergence,0.0
+Outside_Time,Storm,Convoy,1.0
+Outside_Time,Wolverine,Convoy,1.0
+Outside_Time,Wolverine,Domination,1.0
+P1ckNRolł,Emma Frost,Convergence,0.6666666666666666
+P1ckNRolł,Emma Frost,Convoy,1.0
+P1ckNRolł,Emma Frost,Domination,0.5
+P1ckNRolł,Gambit,Convoy,1.0
+P1ckNRolł,Magik,Convergence,0.3333333333333333
+P1ckNRolł,Magik,Convoy,1.0
+P1ckNRolł,Magik,Domination,1.0
+P1ckNRolł,Magneto,Convergence,0.0
+P1ckNRolł,Magneto,Convoy,1.0
+P1ckNRolł,Magneto,Domination,0.0
+P1ckNRolł,Phoenix,Convergence,0.0
+P1ckNRolł,Phoenix,Domination,0.0
+P1ckNRolł,Psylocke,Domination,0.0
+PDouGGy,Angela,Convergence,1.0
+PDouGGy,Angela,Domination,1.0
+PDouGGy,Captain America,Convoy,0.3333333333333333
+PDouGGy,Captain America,Domination,1.0
+PDouGGy,Emma Frost,Convergence,0.75
+PDouGGy,Emma Frost,Convoy,0.8
+PDouGGy,Emma Frost,Domination,0.0
+PDouGGy,Gambit,Domination,0.0
+PDouGGy,Invisible Woman,Convergence,0.0
+PDouGGy,Invisible Woman,Convoy,1.0
+PDouGGy,Jeff The Land Shark,Convoy,0.0
+PDouGGy,Magneto,Convergence,1.0
+PDouGGy,Mantis,Convergence,0.0
+PDouGGy,Rocket Raccoon,Domination,1.0
+PINN4CLE,Angela,Domination,0.0
+PINN4CLE,Captain America,Domination,1.0
+PINN4CLE,Emma Frost,Convoy,1.0
+PINN4CLE,Emma Frost,Domination,1.0
+PINN4CLE,Gambit,Convergence,0.0
+PINN4CLE,Groot,Convergence,1.0
+PINN4CLE,Groot,Convoy,1.0
+PINN4CLE,Groot,Domination,1.0
+PINN4CLE,Jeff The Land Shark,Domination,0.0
+PINN4CLE,Magneto,Convergence,1.0
+PINN4CLE,Magneto,Convoy,0.0
+PINN4CLE,Magneto,Domination,0.6666666666666666
+PINN4CLE,Mantis,Convergence,0.0
+PINN4CLE,Moon Knight,Convoy,0.0
+PINN4CLE,Venom,Convoy,0.0
+PINN4CLE,Venom,Domination,1.0
+P_tatoTV,Emma Frost,Convoy,0.5
+P_tatoTV,Emma Frost,Domination,0.6666666666666666
+P_tatoTV,Namor,Convoy,1.0
+P_tatoTV,Phoenix,Convergence,0.5
+P_tatoTV,Phoenix,Domination,1.0
+P_tatoTV,Psylocke,Convergence,1.0
+P_tatoTV,Psylocke,Convoy,0.3333333333333333
+P_tatoTV,Psylocke,Domination,0.7142857142857143
+P_tatoTV,Winter Soldier,Convergence,0.0
+PigAteMic,Gambit,Convoy,0.5
+PigAteMic,Gambit,Domination,1.0
+PigAteMic,Invisible Woman,Convergence,0.0
+PigAteMic,Invisible Woman,Domination,0.0
+PigAteMic,Jeff The Land Shark,Convergence,0.8333333333333334
+PigAteMic,Jeff The Land Shark,Convoy,0.25
+PigAteMic,Jeff The Land Shark,Domination,1.0
+PigAteMic,Rocket Raccoon,Convergence,1.0
+PigAteMic,Rocket Raccoon,Convoy,1.0
+PigAteMic,Rocket Raccoon,Domination,1.0
+RADLOWBOBLASER,Doctor Strange,Convoy,0.0
+RADLOWBOBLASER,Doctor Strange,Domination,1.0
+RADLOWBOBLASER,Emma Frost,Domination,1.0
+RADLOWBOBLASER,Gambit,Convergence,1.0
+RADLOWBOBLASER,Gambit,Convoy,0.6666666666666666
+RADLOWBOBLASER,Gambit,Domination,1.0
+RADLOWBOBLASER,Invisible Woman,Convergence,0.5
+RADLOWBOBLASER,Invisible Woman,Convoy,1.0
+RADLOWBOBLASER,Invisible Woman,Domination,0.5
+RADLOWBOBLASER,Jeff The Land Shark,Convergence,1.0
+RADLOWBOBLASER,Jeff The Land Shark,Convoy,1.0
+RADLOWBOBLASER,Jeff The Land Shark,Domination,0.6666666666666666
+RADLOWBOBLASER,Loki,Convergence,0.0
+RADLOWBOBLASER,Magneto,Convoy,1.0
+RADLOWBOBLASER,Star-Lord,Domination,1.0
+RMyDa,Gambit,Convoy,0.0
+RMyDa,Jeff The Land Shark,Domination,1.0
+RMyDa,Psylocke,Convergence,0.0
+RMyDa,Rocket Raccoon,Convergence,1.0
+RMyDa,Spider-Man,Convergence,0.5
+RMyDa,Spider-Man,Convoy,0.5714285714285714
+RMyDa,Spider-Man,Domination,0.9
+Reshіrаm.,Angela,Convergence,0.0
+Reshіrаm.,Angela,Convoy,0.5
+Reshіrаm.,Angela,Domination,0.5
+Reshіrаm.,Captain America,Convergence,0.5
+Reshіrаm.,Captain America,Convoy,1.0
+Reshіrаm.,Captain America,Domination,0.8
+Reshіrаm.,Emma Frost,Convergence,0.5
+Reshіrаm.,Emma Frost,Convoy,1.0
+Reshіrаm.,Emma Frost,Domination,0.0
+Reshіrаm.,Magneto,Convergence,0.0
+Reshіrаm.,Venom,Convergence,1.0
+Reshіrаm.,Venom,Domination,0.0
+Rewınd,Angela,Convergence,1.0
+Rewınd,Angela,Convoy,1.0
+Rewınd,Daredevil,Domination,0.0
+Rewınd,Emma Frost,Convergence,1.0
+Rewınd,Emma Frost,Domination,1.0
+Rewınd,Gambit,Convergence,0.6666666666666666
+Rewınd,Gambit,Convoy,0.5
+Rewınd,Groot,Convergence,0.5
+Rewınd,Groot,Domination,0.0
+Rewınd,Loki,Domination,1.0
+Rewınd,Magneto,Convoy,1.0
+Rewınd,Namor,Convergence,1.0
+Rewınd,Rocket Raccoon,Convergence,0.0
+Rewınd,Rocket Raccoon,Domination,1.0
+Rewınd,Star-Lord,Domination,1.0
+Rewınd,Winter Soldier,Convoy,0.3333333333333333
+Riceuu,Daredevil,Convergence,1.0
+Riceuu,Daredevil,Convoy,0.5
+Riceuu,Iron Fist,Convergence,0.5555555555555556
+Riceuu,Iron Fist,Convoy,0.8333333333333334
+Riceuu,Iron Fist,Domination,1.0
+Riceuu,Magneto,Convergence,1.0
+Riceuu,Mantis,Domination,0.0
+RizzlerSigma70,Bruce Banner,Convergence,0.4
+RizzlerSigma70,Bruce Banner,Convoy,1.0
+RizzlerSigma70,Bruce Banner,Domination,0.8333333333333334
+RizzlerSigma70,Cloak & Dagger,Convergence,0.0
+RizzlerSigma70,Doctor Strange,Convergence,0.0
+RizzlerSigma70,Iron Fist,Convergence,0.5
+RizzlerSigma70,Rocket Raccoon,Convergence,1.0
+RizzlerSigma70,Rocket Raccoon,Convoy,1.0
+RizzlerSigma70,Rocket Raccoon,Domination,0.0
+RizzlerSigma70,Venom,Convergence,0.0
+RizzlerSigma70,Venom,Convoy,1.0
+RizzlerSigma70,Venom,Domination,0.5
+Rеedis,Daredevil,Domination,0.5
+Rеedis,Hela,Convergence,0.0
+Rеedis,Jeff The Land Shark,Convergence,0.5
+Rеedis,Phoenix,Convergence,1.0
+Rеedis,Phoenix,Convoy,0.7142857142857143
+Rеedis,Phoenix,Domination,0.5714285714285714
+Rеedis,Psylocke,Convergence,1.0
+Rеedis,Star-Lord,Convergence,0.0
+SFadenSA,Emma Frost,Convergence,0.5
+SFadenSA,Emma Frost,Convoy,1.0
+SFadenSA,Emma Frost,Domination,0.8333333333333334
+SFadenSA,Groot,Convergence,0.0
+SFadenSA,Groot,Domination,0.5
+SFadenSA,Luna Snow,Convoy,0.0
+SFadenSA,Magneto,Convergence,0.0
+SFadenSA,Magneto,Convoy,1.0
+SFadenSA,The Thing,Domination,0.0
+SFadenSA,Thor,Domination,1.0
+SHAYAAs,Emma Frost,Convergence,0.0
+SHAYAAs,Emma Frost,Convoy,1.0
+SHAYAAs,Gambit,Domination,0.5
+SHAYAAs,Groot,Domination,0.0
+SHAYAAs,Invisible Woman,Convoy,1.0
+SHAYAAs,Invisible Woman,Domination,1.0
+SHAYAAs,Jeff The Land Shark,Convergence,1.0
+SHAYAAs,Loki,Convoy,1.0
+SHAYAAs,Magneto,Convergence,0.5
+SHAYAAs,Magneto,Convoy,0.6666666666666666
+SHAYAAs,Magneto,Domination,1.0
+SHAYAAs,Mantis,Domination,1.0
+SHAYAAs,Psylocke,Convoy,1.0
+SHAYAAs,Rocket Raccoon,Convergence,0.0
+SJP,Emma Frost,Convoy,0.0
+SJP,Emma Frost,Domination,0.5
+SJP,Gambit,Convergence,1.0
+SJP,Gambit,Convoy,0.6
+SJP,Gambit,Domination,1.0
+SJP,Invisible Woman,Convergence,0.5
+SJP,Invisible Woman,Convoy,0.0
+SJP,Invisible Woman,Domination,0.5
+SJP,Loki,Convergence,0.0
+SJP,Luna Snow,Convoy,1.0
+SJP,Luna Snow,Domination,1.0
+SJP,Magneto,Convergence,1.0
+SJP,Psylocke,Convergence,0.0
+SJP,Winter Soldier,Domination,1.0
+SPAСE,Emma Frost,Convergence,0.0
+SPAСE,Emma Frost,Convoy,0.6666666666666666
+SPAСE,Emma Frost,Domination,0.0
+SPAСE,Magneto,Convergence,0.875
+SPAСE,Magneto,Convoy,0.75
+SPAСE,Magneto,Domination,0.75
+Saudh,Doctor Strange,Convoy,0.0
+Saudh,Doctor Strange,Domination,1.0
+Saudh,Gambit,Convergence,0.8333333333333334
+Saudh,Gambit,Convoy,0.75
+Saudh,Gambit,Domination,0.5
+Saudh,Invisible Woman,Convergence,0.5
+Saudh,Invisible Woman,Domination,1.0
+Saudh,Loki,Convoy,1.0
+Saudh,Rocket Raccoon,Convergence,1.0
+Saudh,Rocket Raccoon,Domination,1.0
+SeLegendXXVII,Gambit,Convergence,1.0
+SeLegendXXVII,Gambit,Convoy,0.5
+SeLegendXXVII,Gambit,Domination,1.0
+SeLegendXXVII,Invisible Woman,Convergence,0.8
+SeLegendXXVII,Invisible Woman,Convoy,0.75
+SeLegendXXVII,Invisible Woman,Domination,0.6
+SeLegendXXVII,Luna Snow,Convoy,1.0
+SeLegendXXVII,Mantis,Convergence,0.0
+SeLegendXXVII,Rocket Raccoon,Convergence,0.3333333333333333
+SeLegendXXVII,Rocket Raccoon,Domination,0.5
+SheynenBruh,Angela,Domination,1.0
+SheynenBruh,Emma Frost,Convoy,1.0
+SheynenBruh,Gambit,Convergence,1.0
+SheynenBruh,Gambit,Convoy,1.0
+SheynenBruh,Groot,Convoy,0.0
+SheynenBruh,Hawkeye,Convergence,1.0
+SheynenBruh,Hawkeye,Convoy,1.0
+SheynenBruh,Hawkeye,Domination,1.0
+SheynenBruh,Invisible Woman,Domination,0.0
+SheynenBruh,Loki,Convergence,0.5
+SheynenBruh,Loki,Convoy,0.0
+SheynenBruh,Loki,Domination,1.0
+SheynenBruh,Luna Snow,Convergence,0.0
+SheynenBruh,Luna Snow,Convoy,1.0
+SheynenBruh,Magneto,Convergence,0.0
+SheynenBruh,Psylocke,Convergence,0.0
+SheynenBruh,The Punisher,Convoy,0.0
+SheynenBruh,Winter Soldier,Domination,0.0
+Shleepai,Angela,Convergence,0.0
+Shleepai,Captain America,Domination,1.0
+Shleepai,Doctor Strange,Domination,1.0
+Shleepai,Emma Frost,Convergence,0.0
+Shleepai,Emma Frost,Domination,1.0
+Shleepai,Gambit,Domination,0.0
+Shleepai,Invisible Woman,Convergence,1.0
+Shleepai,Invisible Woman,Convoy,0.6666666666666666
+Shleepai,Loki,Convergence,1.0
+Shleepai,Loki,Convoy,0.6666666666666666
+Shleepai,Luna Snow,Convoy,1.0
+Shleepai,Magneto,Convergence,1.0
+Shleepai,Magneto,Convoy,0.0
+Shleepai,Namor,Convergence,0.5
+Shleepai,Rocket Raccoon,Domination,0.0
+Shleepai,Star-Lord,Convergence,0.0
+Shleepai,Star-Lord,Domination,1.0
+Shleepai,Winter Soldier,Convoy,0.0
+Smashᅟ,Hela,Convoy,1.0
+Smashᅟ,Hela,Domination,1.0
+Smashᅟ,Loki,Domination,1.0
+Smashᅟ,Phoenix,Convergence,0.0
+Smashᅟ,Phoenix,Convoy,1.0
+Smashᅟ,Psylocke,Convergence,1.0
+Smashᅟ,Psylocke,Convoy,1.0
+Smashᅟ,Psylocke,Domination,0.5
+Smashᅟ,Star-Lord,Convoy,1.0
+Smashᅟ,Winter Soldier,Convergence,0.5
+Smashᅟ,Winter Soldier,Convoy,0.0
+Smashᅟ,Winter Soldier,Domination,0.5
+Smashᅟ,Wolverine,Convergence,0.0
+Sobek1,Doctor Strange,Convoy,0.0
+Sobek1,Emma Frost,Convoy,0.5
+Sobek1,Emma Frost,Domination,1.0
+Sobek1,Gambit,Convergence,1.0
+Sobek1,Gambit,Convoy,0.5
+Sobek1,Gambit,Domination,0.3333333333333333
+Sobek1,Invisible Woman,Convergence,0.0
+Sobek1,Jeff The Land Shark,Convergence,0.0
+Sobek1,Jeff The Land Shark,Domination,1.0
+Sobek1,Magneto,Convoy,0.0
+Sobek1,Mantis,Convergence,1.0
+Sobek1,Rocket Raccoon,Convergence,0.0
+Sobek1,Rocket Raccoon,Convoy,1.0
+Sobek1,Rocket Raccoon,Domination,1.0
+Sobek1,Venom,Domination,1.0
+Soraka72,Iron Fist,Convergence,1.0
+Soraka72,Loki,Convergence,0.5
+Soraka72,Loki,Convoy,1.0
+Soraka72,Magik,Convergence,0.5
+Soraka72,Magik,Convoy,0.8333333333333334
+Soraka72,Magik,Domination,0.42857142857142855
+SparkChief,Angela,Convergence,0.75
+SparkChief,Angela,Convoy,0.75
+SparkChief,Angela,Domination,0.8333333333333334
+SparkChief,Captain America,Domination,0.0
+SparkChief,Emma Frost,Convergence,1.0
+SparkChief,Groot,Convergence,0.5
+SparkChief,Groot,Domination,0.75
+SparkChief,Magneto,Convoy,1.0
+SparkChief,Peni Parker,Convergence,1.0
+SparkChief,Peni Parker,Convoy,1.0
+SparkR,Namor,Convoy,0.0
+SparkR,Namor,Domination,1.0
+SparkR,Phoenix,Domination,0.5
+SparkR,Psylocke,Convergence,1.0
+SparkR,Psylocke,Domination,0.5
+SparkR,Rocket Raccoon,Domination,1.0
+SparkR,Star-Lord,Convergence,0.75
+SparkR,Star-Lord,Convoy,0.25
+SparkR,Star-Lord,Domination,0.4
+SparkR,Winter Soldier,Convergence,0.0
+SparkR,Wolverine,Convergence,1.0
+StanMarsh101,Doctor Strange,Convergence,0.0
+StanMarsh101,Emma Frost,Convergence,0.0
+StanMarsh101,Emma Frost,Domination,1.0
+StanMarsh101,Peni Parker,Convergence,1.0
+StanMarsh101,Peni Parker,Convoy,0.5
+StanMarsh101,Peni Parker,Domination,0.6666666666666666
+SuperGomez,Angela,Convoy,0.0
+SuperGomez,Emma Frost,Convoy,0.0
+SuperGomez,Gambit,Convergence,0.0
+SuperGomez,Gambit,Domination,1.0
+SuperGomez,Groot,Convoy,0.0
+SuperGomez,Invisible Woman,Convergence,1.0
+SuperGomez,Magneto,Domination,1.0
+SuperGomez,Mantis,Convoy,0.0
+SuperGomez,Namor,Domination,0.0
+SuperGomez,Phoenix,Convergence,0.0
+SuperGomez,Phoenix,Convoy,1.0
+SuperGomez,Psylocke,Convergence,1.0
+SuperGomez,Psylocke,Convoy,1.0
+SuperGomez,Psylocke,Domination,1.0
+SuperGomez,Rocket Raccoon,Convergence,1.0
+SuperGomez,Rocket Raccoon,Domination,1.0
+SuperGomez,Star-Lord,Convergence,0.0
+SuperGomez,Star-Lord,Convoy,1.0
+SuperGomez,Star-Lord,Domination,0.0
+SuperGomez,Winter Soldier,Convergence,0.5
+SuperGomez,Winter Soldier,Domination,1.0
+SuperGomez,Wolverine,Domination,0.0
+Swedenborg06,Daredevil,Convergence,0.5
+Swedenborg06,Daredevil,Convoy,0.0
+Swedenborg06,Doctor Strange,Convergence,1.0
+Swedenborg06,Gambit,Convoy,1.0
+Swedenborg06,Gambit,Domination,0.0
+Swedenborg06,Invisible Woman,Convoy,1.0
+Swedenborg06,Iron Fist,Convergence,0.8333333333333334
+Swedenborg06,Iron Fist,Convoy,0.8333333333333334
+Swedenborg06,Iron Fist,Domination,0.5
+Sypeh,Gambit,Convergence,1.0
+Sypeh,Gambit,Convoy,0.0
+Sypeh,Gambit,Domination,1.0
+Sypeh,Invisible Woman,Convergence,0.8
+Sypeh,Invisible Woman,Convoy,0.42857142857142855
+Sypeh,Invisible Woman,Domination,0.75
+Sypeh,Loki,Convoy,0.0
+Sypeh,Loki,Domination,0.5
+Sypeh,Luna Snow,Convoy,0.0
+Sypeh,Rocket Raccoon,Convergence,1.0
+TBennett,Captain America,Domination,0.0
+TBennett,Doctor Strange,Convoy,0.0
+TBennett,Gambit,Convoy,0.0
+TBennett,Human Torch,Domination,0.0
+TBennett,Magneto,Domination,0.0
+TBennett,Phoenix,Convergence,1.0
+TBennett,Phoenix,Convoy,0.5
+TBennett,Phoenix,Domination,0.5714285714285714
+TBennett,Psylocke,Convoy,0.0
+TBennett,Rocket Raccoon,Convoy,1.0
+TTV quacklylol,Black Panther,Convoy,0.0
+TTV quacklylol,Daredevil,Convergence,0.3333333333333333
+TTV quacklylol,Daredevil,Convoy,1.0
+TTV quacklylol,Daredevil,Domination,0.0
+TTV quacklylol,Mister Fantastic,Convergence,0.5714285714285714
+TTV quacklylol,Mister Fantastic,Convoy,1.0
+TTV quacklylol,Mister Fantastic,Domination,0.5
+TTV quacklylol,Wolverine,Convoy,0.0
+ThisGuyStinkss,Adam Warlock,Convergence,1.0
+ThisGuyStinkss,Gambit,Convergence,0.3333333333333333
+ThisGuyStinkss,Gambit,Convoy,0.7142857142857143
+ThisGuyStinkss,Gambit,Domination,0.875
+ThisGuyStinkss,Invisible Woman,Convergence,0.0
+ThisGuyStinkss,Invisible Woman,Convoy,0.0
+ThisGuyStinkss,Loki,Domination,1.0
+ThisGuyStinkss,Luna Snow,Convergence,0.0
+ThisGuyStinkss,Luna Snow,Convoy,1.0
+ThisGuyStinkss,Luna Snow,Domination,1.0
+Tim Cheesе,Gambit,Convergence,0.6666666666666666
+Tim Cheesе,Gambit,Convoy,0.0
+Tim Cheesе,Gambit,Domination,0.75
+Tim Cheesе,Magneto,Convoy,0.6666666666666666
+Tim Cheesе,Mantis,Domination,1.0
+Tim Cheesе,Peni Parker,Convergence,0.6
+Tim Cheesе,Peni Parker,Convoy,0.5
+Tim Cheesе,Peni Parker,Domination,1.0
+Tim Cheesе,Venom,Convoy,1.0
+TimTheTatmаn,Angela,Convergence,1.0
+TimTheTatmаn,Angela,Domination,1.0
+TimTheTatmаn,Doctor Strange,Domination,1.0
+TimTheTatmаn,Emma Frost,Convergence,1.0
+TimTheTatmаn,Emma Frost,Convoy,0.2
+TimTheTatmаn,Emma Frost,Domination,0.8333333333333334
+TimTheTatmаn,Gambit,Convoy,1.0
+TimTheTatmаn,Groot,Convergence,0.5
+TimTheTatmаn,Groot,Convoy,1.0
+TimTheTatmаn,Jeff The Land Shark,Convergence,1.0
+TimTheTatmаn,Magneto,Domination,1.0
+ToddPrice,Angela,Convergence,0.5714285714285714
+ToddPrice,Angela,Convoy,0.6666666666666666
+ToddPrice,Angela,Domination,1.0
+ToddPrice,Captain America,Domination,1.0
+ToddPrice,Emma Frost,Convoy,0.5
+ToddPrice,Groot,Convergence,0.6666666666666666
+ToddPrice,Groot,Convoy,0.0
+ToddPrice,Groot,Domination,1.0
+ToddPrice,Mantis,Convergence,0.0
+ToddPrice,Rocket Raccoon,Convoy,0.0
+ToddPrice,Rocket Raccoon,Domination,0.5
+Tora8,Emma Frost,Convoy,1.0
+Tora8,Emma Frost,Domination,1.0
+Tora8,Gambit,Convoy,0.0
+Tora8,Gambit,Domination,1.0
+Tora8,Magneto,Convergence,0.3333333333333333
+Tora8,Magneto,Convoy,1.0
+Tora8,Magneto,Domination,0.0
+Tora8,Moon Knight,Convergence,0.0
+Tora8,Moon Knight,Convoy,0.0
+Tora8,Rocket Raccoon,Convergence,0.75
+Tora8,Rocket Raccoon,Convoy,0.8333333333333334
+Tora8,Rocket Raccoon,Domination,1.0
+TreeMan.1,Angela,Convoy,0.0
+TreeMan.1,Angela,Domination,1.0
+TreeMan.1,Captain America,Convoy,1.0
+TreeMan.1,Emma Frost,Convergence,1.0
+TreeMan.1,Emma Frost,Convoy,0.0
+TreeMan.1,Emma Frost,Domination,0.0
+TreeMan.1,Groot,Convergence,0.4
+TreeMan.1,Groot,Convoy,1.0
+TreeMan.1,Groot,Domination,0.6666666666666666
+TreeMan.1,Magneto,Convoy,1.0
+TreeMan.1,Rocket Raccoon,Domination,1.0
+TreаsureHunter,Angela,Convoy,0.0
+TreаsureHunter,Captain America,Convergence,1.0
+TreаsureHunter,Captain America,Convoy,1.0
+TreаsureHunter,Captain America,Domination,1.0
+TreаsureHunter,Doctor Strange,Convergence,1.0
+TreаsureHunter,Doctor Strange,Domination,1.0
+TreаsureHunter,Groot,Convergence,1.0
+TreаsureHunter,Groot,Convoy,0.6666666666666666
+TreаsureHunter,Groot,Domination,1.0
+TreаsureHunter,Invisible Woman,Convergence,0.0
+TreаsureHunter,Magneto,Convergence,0.6666666666666666
+TreаsureHunter,Magneto,Domination,0.6666666666666666
+TreаsureHunter,Mantis,Convoy,1.0
+TreаsureHunter,Star-Lord,Convergence,0.0
+TreаsureHunter,Venom,Convoy,1.0
+TreаsureHunter,Venom,Domination,1.0
+UT Papyrus,Hawkeye,Convergence,0.0
+UT Papyrus,Loki,Domination,1.0
+UT Papyrus,Luna Snow,Domination,0.0
+UT Papyrus,Magneto,Domination,1.0
+UT Papyrus,Phoenix,Convoy,0.5
+UT Papyrus,Spider-Man,Convergence,0.75
+UT Papyrus,Spider-Man,Convoy,0.5555555555555556
+UT Papyrus,Spider-Man,Domination,1.0
+VP Sypeh,Adam Warlock,Domination,1.0
+VP Sypeh,Gambit,Convergence,1.0
+VP Sypeh,Gambit,Convoy,1.0
+VP Sypeh,Gambit,Domination,0.0
+VP Sypeh,Invisible Woman,Convergence,0.6666666666666666
+VP Sypeh,Invisible Woman,Convoy,1.0
+VP Sypeh,Invisible Woman,Domination,0.7142857142857143
+VP Sypeh,Loki,Convergence,1.0
+VP Sypeh,Loki,Convoy,1.0
+VP Sypeh,Loki,Domination,1.0
+VP Sypeh,Mantis,Convoy,0.0
+VP Sypeh,Rocket Raccoon,Convoy,1.0
+Vastus,Angela,Convergence,1.0
+Vastus,Angela,Domination,1.0
+Vastus,Captain America,Domination,0.5
+Vastus,Emma Frost,Convergence,1.0
+Vastus,Emma Frost,Domination,0.0
+Vastus,Groot,Convergence,1.0
+Vastus,Groot,Convoy,0.8333333333333334
+Vastus,Groot,Domination,0.0
+Vastus,Magneto,Convergence,0.5
+Vastus,Magneto,Convoy,0.5
+Vastus,Magneto,Domination,0.0
+Vastus,The Thing,Domination,0.0
+Versа,Gambit,Convergence,1.0
+Versа,Gambit,Domination,0.3333333333333333
+Versа,Invisible Woman,Convergence,0.5
+Versа,Invisible Woman,Convoy,1.0
+Versа,Invisible Woman,Domination,1.0
+Versа,Loki,Convergence,1.0
+Versа,Loki,Domination,0.75
+Versа,Rocket Raccoon,Convergence,0.5
+Versа,Rocket Raccoon,Convoy,0.8
+VeryStickyGuy,Adam Warlock,Convoy,0.0
+VeryStickyGuy,Angela,Convergence,1.0
+VeryStickyGuy,Angela,Convoy,1.0
+VeryStickyGuy,Angela,Domination,1.0
+VeryStickyGuy,Daredevil,Domination,0.0
+VeryStickyGuy,Emma Frost,Domination,0.0
+VeryStickyGuy,Gambit,Convergence,1.0
+VeryStickyGuy,Iron Fist,Convergence,1.0
+VeryStickyGuy,Iron Fist,Domination,1.0
+VeryStickyGuy,Jeff The Land Shark,Convergence,1.0
+VeryStickyGuy,Jeff The Land Shark,Convoy,1.0
+VeryStickyGuy,Magneto,Convoy,1.0
+VeryStickyGuy,Mantis,Convoy,1.0
+VeryStickyGuy,Moon Knight,Convoy,1.0
+VeryStickyGuy,Moon Knight,Domination,1.0
+VeryStickyGuy,Psylocke,Convoy,0.0
+VeryStickyGuy,Star-Lord,Convergence,1.0
+VeryStickyGuy,The Thing,Convoy,0.0
+VeryStickyGuy,Thor,Convergence,0.0
+VeryStickyGuy,Thor,Convoy,1.0
+Vicisity,Gambit,Convoy,1.0
+Vicisity,Invisible Woman,Convergence,0.5
+Vicisity,Invisible Woman,Convoy,1.0
+Vicisity,Invisible Woman,Domination,0.7
+Vicisity,Mantis,Convergence,0.0
+Vicisity,Rocket Raccoon,Convergence,1.0
+Vicisity,Rocket Raccoon,Convoy,1.0
+Vicisity,Rocket Raccoon,Domination,0.5
+Vill-v,Emma Frost,Domination,1.0
+Vill-v,Gambit,Convergence,1.0
+Vill-v,Gambit,Convoy,0.5
+Vill-v,Gambit,Domination,1.0
+Vill-v,Invisible Woman,Convergence,0.5
+Vill-v,Invisible Woman,Domination,0.5
+Vill-v,Jeff The Land Shark,Convergence,0.0
+Vill-v,Jeff The Land Shark,Domination,1.0
+Vill-v,Loki,Convoy,0.5
+Vill-v,Loki,Domination,1.0
+Vill-v,Luna Snow,Convoy,0.0
+Vill-v,Luna Snow,Domination,0.0
+Vill-v,Magik,Domination,0.0
+Vill-v,Mantis,Convergence,0.5
+Vill-v,Mantis,Convoy,1.0
+Vill-v,Mantis,Domination,0.0
+Voldemortᅠ,Gambit,Convergence,0.5
+Voldemortᅠ,Gambit,Convoy,0.5
+Voldemortᅠ,Gambit,Domination,1.0
+Voldemortᅠ,Invisible Woman,Convergence,0.8571428571428571
+Voldemortᅠ,Invisible Woman,Convoy,0.6666666666666666
+Voldemortᅠ,Invisible Woman,Domination,1.0
+Voldemortᅠ,Loki,Convergence,0.6666666666666666
+Voldemortᅠ,Loki,Convoy,1.0
+Voldemortᅠ,Loki,Domination,1.0
+Voldemortᅠ,Mantis,Convoy,0.0
+Vyvanse Ryften,Hela,Convergence,1.0
+Vyvanse Ryften,Hela,Convoy,1.0
+Vyvanse Ryften,Namor,Convergence,1.0
+Vyvanse Ryften,Namor,Domination,1.0
+Vyvanse Ryften,Phoenix,Convergence,0.3333333333333333
+Vyvanse Ryften,Phoenix,Convoy,0.6666666666666666
+Vyvanse Ryften,Phoenix,Domination,1.0
+Vyvanse Ryften,Psylocke,Convergence,0.25
+Vyvanse Ryften,Psylocke,Convoy,0.6666666666666666
+Vyvanse Ryften,Psylocke,Domination,0.8
+Vyvanse Ryften,Winter Soldier,Convergence,1.0
+WHOBRYSON,Gambit,Convergence,0.4
+WHOBRYSON,Gambit,Convoy,1.0
+WHOBRYSON,Gambit,Domination,1.0
+WHOBRYSON,Invisible Woman,Convergence,0.3333333333333333
+WHOBRYSON,Invisible Woman,Convoy,0.0
+WHOBRYSON,Invisible Woman,Domination,0.25
+WHOBRYSON,Luna Snow,Convoy,0.0
+WHOBRYSON,Luna Snow,Domination,1.0
+WHOBRYSON,Magneto,Domination,0.0
+WHOBRYSON,Mantis,Domination,0.0
+Wepsheepdiary,Black Widow,Convoy,1.0
+Wepsheepdiary,Black Widow,Domination,0.0
+Wepsheepdiary,Emma Frost,Domination,1.0
+Wepsheepdiary,Hela,Domination,1.0
+Wepsheepdiary,Invisible Woman,Convoy,0.0
+Wepsheepdiary,Luna Snow,Domination,1.0
+Wepsheepdiary,Mantis,Convergence,1.0
+Wepsheepdiary,Phoenix,Convoy,0.0
+Wepsheepdiary,Psylocke,Convergence,1.0
+Wepsheepdiary,Psylocke,Convoy,0.8333333333333334
+Wepsheepdiary,Psylocke,Domination,0.5
+Wepsheepdiary,Star-Lord,Convergence,0.75
+Wepsheepdiary,Star-Lord,Domination,0.0
+Whiskеy,Hela,Convergence,1.0
+Whiskеy,Hela,Domination,1.0
+Whiskеy,Invisible Woman,Convoy,0.0
+Whiskеy,Mantis,Convoy,0.0
+Whiskеy,Phoenix,Convergence,0.6
+Whiskеy,Phoenix,Convoy,1.0
+Whiskеy,Psylocke,Convergence,0.6666666666666666
+Whiskеy,Psylocke,Convoy,1.0
+Whiskеy,Psylocke,Domination,1.0
+Whiskеy,Star-Lord,Convergence,0.0
+Whiskеy,Star-Lord,Domination,1.0
+Whiskеy,Winter Soldier,Convergence,0.6666666666666666
+WholeLottaDi,Black Widow,Convoy,1.0
+WholeLottaDi,Doctor Strange,Convergence,1.0
+WholeLottaDi,Groot,Convergence,1.0
+WholeLottaDi,Groot,Domination,1.0
+WholeLottaDi,Magneto,Convoy,1.0
+WholeLottaDi,Magneto,Domination,1.0
+WholeLottaDi,Phoenix,Domination,0.5
+WholeLottaDi,Psylocke,Convergence,1.0
+WholeLottaDi,Psylocke,Domination,0.5
+WholeLottaDi,Star-Lord,Convergence,0.5
+WholeLottaDi,Winter Soldier,Convergence,1.0
+WholeLottaDi,Winter Soldier,Convoy,0.5
+WholeLottaDi,Winter Soldier,Domination,0.5
+WholeLottaDi,Wolverine,Convoy,0.75
+XThan0sSlay3rX,Black Panther,Convergence,0.0
+XThan0sSlay3rX,Daredevil,Convoy,1.0
+XThan0sSlay3rX,Mantis,Convergence,0.0
+XThan0sSlay3rX,Mantis,Domination,1.0
+XThan0sSlay3rX,Phoenix,Convergence,0.75
+XThan0sSlay3rX,Phoenix,Convoy,0.4
+XThan0sSlay3rX,Phoenix,Domination,0.8
+XThan0sSlay3rX,Star-Lord,Convergence,1.0
+XThan0sSlay3rX,Star-Lord,Convoy,0.0
+XThan0sSlay3rX,Winter Soldier,Convergence,0.5
+XThan0sSlay3rX,Winter Soldier,Domination,0.3333333333333333
+YBNKujo,Angela,Convoy,0.0
+YBNKujo,Angela,Domination,1.0
+YBNKujo,Daredevil,Convergence,0.0
+YBNKujo,Gambit,Convergence,1.0
+YBNKujo,Gambit,Domination,0.0
+YBNKujo,Magneto,Convergence,0.0
+YBNKujo,Moon Knight,Convergence,1.0
+YBNKujo,Spider-Man,Convergence,0.6
+YBNKujo,Spider-Man,Convoy,0.6666666666666666
+YBNKujo,Spider-Man,Domination,0.5
+YBNKujo,Winter Soldier,Convergence,1.0
+YT Matty_1v9,Cloak & Dagger,Convoy,1.0
+YT Matty_1v9,Doctor Strange,Convoy,1.0
+YT Matty_1v9,Gambit,Convergence,0.5
+YT Matty_1v9,Gambit,Convoy,1.0
+YT Matty_1v9,Gambit,Domination,0.8333333333333334
+YT Matty_1v9,Jeff The Land Shark,Domination,0.0
+YT Matty_1v9,Magneto,Convergence,1.0
+YT Matty_1v9,Rocket Raccoon,Convergence,0.75
+YT Matty_1v9,Rocket Raccoon,Convoy,1.0
+YikenOxO,Gambit,Convergence,0.0
+YikenOxO,Gambit,Convoy,0.5
+YikenOxO,Gambit,Domination,0.5
+YikenOxO,Invisible Woman,Convergence,0.8
+YikenOxO,Invisible Woman,Convoy,1.0
+YikenOxO,Invisible Woman,Domination,0.5
+YikenOxO,Loki,Convergence,1.0
+YikenOxO,Loki,Convoy,1.0
+YikenOxO,Loki,Domination,1.0
+YikenOxO,Luna Snow,Convoy,1.0
+YikenOxO,Luna Snow,Domination,0.5
+YikenOxO,Mantis,Convergence,0.0
+YikenOxO,Rocket Raccoon,Convoy,0.0
+Z4RDEN,Psylocke,Convergence,1.0
+Z4RDEN,Rocket Raccoon,Convergence,1.0
+Z4RDEN,Spider-Man,Convergence,0.8888888888888888
+Z4RDEN,Spider-Man,Convoy,0.42857142857142855
+Z4RDEN,Spider-Man,Domination,0.8571428571428571
+Zemelnyk,Gambit,Convergence,0.6666666666666666
+Zemelnyk,Gambit,Convoy,1.0
+Zemelnyk,Gambit,Domination,0.5
+Zemelnyk,Invisible Woman,Convergence,0.75
+Zemelnyk,Invisible Woman,Convoy,0.75
+Zemelnyk,Invisible Woman,Domination,0.6
+Zemelnyk,Luna Snow,Convoy,0.0
+Zemelnyk,Luna Snow,Domination,1.0
+Zemelnyk,Mantis,Convergence,0.0
+Zemelnyk,Mantis,Convoy,1.0
+Zemelnyk,Mantis,Domination,1.0
+Zеvs,Doctor Strange,Convergence,0.75
+Zеvs,Doctor Strange,Convoy,0.6666666666666666
+Zеvs,Doctor Strange,Domination,0.25
+Zеvs,Iron Fist,Convergence,1.0
+Zеvs,Luna Snow,Domination,0.0
+Zеvs,Magneto,Convergence,0.0
+Zеvs,Magneto,Convoy,0.0
+Zеvs,Phoenix,Convergence,0.5
+Zеvs,Phoenix,Domination,0.0
+Zеvs,Rocket Raccoon,Convergence,1.0
+Zеvs,Winter Soldier,Convoy,0.0
+alurа,Emma Frost,Convergence,1.0
+alurа,Emma Frost,Convoy,0.0
+alurа,Groot,Convergence,1.0
+alurа,Groot,Convoy,0.6666666666666666
+alurа,Groot,Domination,1.0
+alurа,Invisible Woman,Domination,0.5
+alurа,Loki,Domination,0.0
+alurа,Magneto,Convergence,1.0
+alurа,Magneto,Convoy,0.25
+alurа,Magneto,Domination,1.0
+alurа,Rocket Raccoon,Convoy,1.0
+alurа,Rocket Raccoon,Domination,1.0
+alurа,The Thing,Domination,0.0
+alurа,Venom,Convoy,0.0
+alurа,Winter Soldier,Convergence,0.0
+azuraptor,Invisible Woman,Convergence,1.0
+azuraptor,Invisible Woman,Convoy,0.5
+azuraptor,Invisible Woman,Domination,1.0
+azuraptor,Mantis,Convergence,1.0
+azuraptor,Mantis,Convoy,0.0
+azuraptor,Mantis,Domination,0.0
+azuraptor,Moon Knight,Convergence,0.0
+azuraptor,Moon Knight,Convoy,0.0
+azuraptor,Moon Knight,Domination,1.0
+azuraptor,Peni Parker,Convoy,1.0
+azuraptor,Peni Parker,Domination,1.0
+azuraptor,Rocket Raccoon,Convergence,1.0
+azuraptor,Rocket Raccoon,Domination,1.0
+azuraptor,Scarlet Witch,Convoy,0.0
+azuraptor,Wolverine,Domination,0.0
+balas.,Namor,Convergence,0.6666666666666666
+balas.,Namor,Convoy,1.0
+balas.,Namor,Domination,0.5
+balas.,Phoenix,Convergence,0.5
+balas.,Phoenix,Convoy,0.75
+balas.,Phoenix,Domination,0.5
+balas.,Psylocke,Convoy,0.5
+balas.,Winter Soldier,Domination,0.6666666666666666
+balas33,Hela,Convergence,0.8
+balas33,Hela,Domination,0.5
+balas33,Mantis,Convoy,1.0
+balas33,Namor,Convoy,1.0
+balas33,Phoenix,Convergence,1.0
+balas33,Phoenix,Convoy,0.0
+balas33,Phoenix,Domination,1.0
+balas33,Psylocke,Convergence,0.5
+balas33,Psylocke,Convoy,0.3333333333333333
+balas33,Psylocke,Domination,0.0
+balas33,Venom,Convoy,1.0
+balas33,Winter Soldier,Convoy,0.5
+balas33,Winter Soldier,Domination,1.0
+bedtime5tory,Hela,Convergence,1.0
+bedtime5tory,Hela,Domination,0.3333333333333333
+bedtime5tory,Magneto,Convoy,1.0
+bedtime5tory,Magneto,Domination,0.0
+bedtime5tory,Mantis,Domination,1.0
+bedtime5tory,Phoenix,Convergence,1.0
+bedtime5tory,Phoenix,Convoy,0.0
+bedtime5tory,Phoenix,Domination,0.6666666666666666
+bedtime5tory,Psylocke,Convergence,1.0
+bedtime5tory,Psylocke,Convoy,0.3333333333333333
+bedtime5tory,Psylocke,Domination,1.0
+bedtime5tory,Rocket Raccoon,Convergence,1.0
+bedtime5tory,Star-Lord,Convergence,0.0
+bedtime5tory,Star-Lord,Domination,0.5
+bradys,Cloak & Dagger,Convergence,0.5
+bradys,Cloak & Dagger,Convoy,0.25
+bradys,Cloak & Dagger,Domination,1.0
+bradys,Emma Frost,Convoy,1.0
+bradys,Gambit,Convergence,1.0
+bradys,Gambit,Convoy,1.0
+bradys,Gambit,Domination,1.0
+bradys,Invisible Woman,Convergence,1.0
+bradys,Invisible Woman,Convoy,0.75
+bradys,Invisible Woman,Domination,1.0
+bradys,Scarlet Witch,Domination,1.0
+bradys,Storm,Convergence,1.0
+bradys,Storm,Domination,1.0
+brazy girls,Captain America,Domination,1.0
+brazy girls,Luna Snow,Convergence,0.0
+brazy girls,Magneto,Convergence,0.6
+brazy girls,Magneto,Convoy,1.0
+brazy girls,Magneto,Domination,0.75
+brazy girls,Phoenix,Convergence,0.5
+brazy girls,Phoenix,Convoy,0.5
+brazy girls,Phoenix,Domination,0.0
+brazy girls,Rocket Raccoon,Convergence,0.0
+brazy girls,Rocket Raccoon,Convoy,0.5
+brino,Gambit,Convergence,1.0
+brino,Invisible Woman,Convergence,0.25
+brino,Invisible Woman,Convoy,1.0
+brino,Invisible Woman,Domination,0.5
+brino,Luna Snow,Convergence,0.0
+brino,Luna Snow,Convoy,1.0
+brino,Luna Snow,Domination,0.0
+brino,Mantis,Convergence,1.0
+brino,Mantis,Convoy,1.0
+brino,Mantis,Domination,0.5
+brino,Rocket Raccoon,Convergence,1.0
+brino,Rocket Raccoon,Domination,1.0
+cara.-,Hela,Convergence,1.0
+cara.-,Luna Snow,Convergence,1.0
+cara.-,Luna Snow,Convoy,1.0
+cara.-,Mantis,Domination,0.0
+cara.-,Phoenix,Convergence,0.42857142857142855
+cara.-,Phoenix,Convoy,1.0
+cara.-,Phoenix,Domination,0.5714285714285714
+cara.-,Psylocke,Domination,1.0
+cara.-,Star-Lord,Convergence,1.0
+cara.-,Winter Soldier,Domination,0.0
+chuzzlina,Invisible Woman,Convergence,1.0
+chuzzlina,Invisible Woman,Convoy,0.6666666666666666
+chuzzlina,Invisible Woman,Domination,0.5
+chuzzlina,Loki,Convoy,1.0
+chuzzlina,Luna Snow,Convergence,0.0
+chuzzlina,Luna Snow,Convoy,1.0
+chuzzlina,Luna Snow,Domination,1.0
+chuzzlina,Magneto,Convergence,0.6
+chuzzlina,Magneto,Convoy,0.25
+chuzzlina,Magneto,Domination,1.0
+chuzzlina,Rocket Raccoon,Convergence,0.0
+chuzzlina,Rocket Raccoon,Domination,0.0
+cjchris,Emma Frost,Domination,1.0
+cjchris,Hela,Convergence,1.0
+cjchris,Hela,Convoy,1.0
+cjchris,Hela,Domination,0.5
+cjchris,Namor,Convoy,0.0
+cjchris,Phoenix,Convergence,0.6666666666666666
+cjchris,Phoenix,Convoy,0.3333333333333333
+cjchris,Phoenix,Domination,0.0
+cjchris,Psylocke,Convoy,0.5
+cjchris,Psylocke,Domination,0.8333333333333334
+cjchris,Rocket Raccoon,Convergence,1.0
+cjchris,Rocket Raccoon,Convoy,1.0
+cjchris,Star-Lord,Convergence,1.0
+cm1i,Gambit,Convergence,1.0
+cm1i,Gambit,Convoy,0.3333333333333333
+cm1i,Gambit,Domination,1.0
+cm1i,Invisible Woman,Convergence,1.0
+cm1i,Invisible Woman,Convoy,0.6666666666666666
+cm1i,Invisible Woman,Domination,0.5
+cm1i,Loki,Domination,1.0
+cm1i,Luna Snow,Convergence,1.0
+cm1i,Magneto,Convergence,0.0
+cm1i,Magneto,Domination,0.0
+cm1i,Mantis,Convergence,1.0
+cm1i,Mantis,Convoy,1.0
+cm1i,Phoenix,Convergence,1.0
+cm1i,Phoenix,Convoy,0.0
+cyber athlete1,Iron Fist,Convergence,1.0
+cyber athlete1,Iron Fist,Convoy,0.75
+cyber athlete1,Iron Fist,Domination,1.0
+cyber athlete1,Rocket Raccoon,Convoy,0.0
+cyber athlete1,Spider-Man,Convergence,0.8
+cyber athlete1,Spider-Man,Convoy,0.7142857142857143
+cyber athlete1,Spider-Man,Domination,0.4
+cyber athlete1,Winter Soldier,Convergence,0.0
+cоopertastic,Gambit,Convergence,0.75
+cоopertastic,Gambit,Convoy,0.5
+cоopertastic,Gambit,Domination,1.0
+cоopertastic,Invisible Woman,Domination,0.0
+cоopertastic,Loki,Convoy,1.0
+cоopertastic,Luna Snow,Convergence,0.5
+cоopertastic,Magneto,Convoy,1.0
+cоopertastic,Magneto,Domination,1.0
+cоopertastic,Mantis,Convergence,1.0
+cоopertastic,Mantis,Convoy,0.0
+cоopertastic,Mantis,Domination,0.5
+cоopertastic,Phoenix,Convoy,1.0
+cоopertastic,Venom,Domination,1.0
+delenaa,Daredevil,Convergence,0.0
+delenaa,Hela,Convergence,1.0
+delenaa,Hela,Convoy,1.0
+delenaa,Hela,Domination,0.0
+delenaa,Namor,Domination,0.0
+delenaa,Phoenix,Convoy,1.0
+delenaa,Phoenix,Domination,1.0
+delenaa,Psylocke,Convergence,0.5
+delenaa,Psylocke,Convoy,0.6666666666666666
+delenaa,Psylocke,Domination,1.0
+delenaa,Rocket Raccoon,Convergence,1.0
+delenaa,Star-Lord,Convergence,1.0
+delenaa,Star-Lord,Convoy,1.0
+delenaa,The Punisher,Convergence,1.0
+delenaa,Winter Soldier,Convergence,0.0
+delenaa,Winter Soldier,Convoy,1.0
+delenaa,Winter Soldier,Domination,0.0
+delenaa,Wolverine,Convergence,1.0
+desly,Gambit,Convergence,1.0
+desly,Gambit,Convoy,1.0
+desly,Invisible Woman,Convergence,0.6666666666666666
+desly,Invisible Woman,Convoy,0.6666666666666666
+desly,Invisible Woman,Domination,1.0
+desly,Jeff The Land Shark,Domination,0.0
+desly,Loki,Convoy,1.0
+desly,Loki,Domination,1.0
+desly,Magneto,Domination,0.0
+desly,Mantis,Convergence,1.0
+desly,Mantis,Domination,1.0
+desly,Rocket Raccoon,Convergence,1.0
+desly,Rocket Raccoon,Convoy,0.6666666666666666
+desly,Rocket Raccoon,Domination,0.5
+dihky1,Angela,Convoy,1.0
+dihky1,Angela,Domination,1.0
+dihky1,Captain America,Domination,1.0
+dihky1,Emma Frost,Convergence,1.0
+dihky1,Emma Frost,Convoy,1.0
+dihky1,Emma Frost,Domination,0.0
+dihky1,Groot,Convergence,0.2
+dihky1,Groot,Convoy,0.5
+dihky1,Groot,Domination,0.6666666666666666
+dihky1,Invisible Woman,Convoy,1.0
+dihky1,Jeff The Land Shark,Convergence,0.0
+dihky1,Jeff The Land Shark,Convoy,1.0
+dihky1,Magneto,Convoy,1.0
+dihky1,Magneto,Domination,0.5
+dihky1,Rocket Raccoon,Convoy,1.0
+dongmin,Angela,Convoy,1.0
+dongmin,Doctor Strange,Convoy,1.0
+dongmin,Emma Frost,Convergence,0.5
+dongmin,Emma Frost,Convoy,0.0
+dongmin,Groot,Convergence,1.0
+dongmin,Groot,Convoy,0.6666666666666666
+dongmin,Groot,Domination,0.3333333333333333
+dongmin,Invisible Woman,Domination,1.0
+dongmin,Loki,Convoy,1.0
+dongmin,Magneto,Convergence,1.0
+dongmin,Magneto,Convoy,0.5
+dongmin,Magneto,Domination,0.5
+dongmin,Moon Knight,Convoy,1.0
+dongmin,Star-Lord,Domination,0.0
+dongmin,Winter Soldier,Domination,1.0
+douge01,Daredevil,Convoy,1.0
+douge01,Daredevil,Domination,0.0
+douge01,Emma Frost,Convoy,0.6666666666666666
+douge01,Psylocke,Convergence,0.4
+douge01,Psylocke,Convoy,0.6
+douge01,Psylocke,Domination,0.6666666666666666
+douge01,Rocket Raccoon,Convoy,0.5
+douge01,Star-Lord,Convergence,1.0
+douge01,Winter Soldier,Convergence,1.0
+douge01,Winter Soldier,Convoy,0.5
+douge01,Winter Soldier,Domination,0.0
+douge03,Doctor Strange,Domination,0.0
+douge03,Gambit,Domination,1.0
+douge03,Invisible Woman,Domination,1.0
+douge03,Magneto,Convoy,0.0
+douge03,Phoenix,Convergence,0.0
+douge03,Phoenix,Domination,1.0
+douge03,Psylocke,Convergence,0.6666666666666666
+douge03,Psylocke,Convoy,0.7142857142857143
+douge03,Psylocke,Domination,0.75
+douge03,Rocket Raccoon,Convergence,1.0
+douge03,Star-Lord,Convergence,1.0
+douge03,Winter Soldier,Convergence,1.0
+dridro,Gambit,Convergence,0.8
+dridro,Gambit,Convoy,0.3333333333333333
+dridro,Gambit,Domination,0.5
+dridro,Invisible Woman,Convergence,1.0
+dridro,Invisible Woman,Convoy,0.5
+dridro,Loki,Convoy,1.0
+dridro,Mantis,Convergence,1.0
+dridro,Mantis,Convoy,1.0
+dridro,Mantis,Domination,0.5
+dridro,Rocket Raccoon,Convoy,1.0
+dridro,Rocket Raccoon,Domination,0.0
+duqk3,Gambit,Convergence,1.0
+duqk3,Gambit,Convoy,1.0
+duqk3,Gambit,Domination,1.0
+duqk3,Hela,Domination,1.0
+duqk3,Invisible Woman,Convoy,1.0
+duqk3,Magneto,Convergence,1.0
+duqk3,Magneto,Convoy,0.0
+duqk3,Namor,Convoy,1.0
+duqk3,Phoenix,Convergence,1.0
+duqk3,Phoenix,Convoy,1.0
+duqk3,Phoenix,Domination,1.0
+duqk3,Psylocke,Convergence,0.0
+duqk3,Psylocke,Convoy,0.6666666666666666
+duqk3,Psylocke,Domination,0.6666666666666666
+duqk3,Winter Soldier,Convoy,0.0
+dwarf-,Gambit,Convergence,0.75
+dwarf-,Gambit,Convoy,0.5
+dwarf-,Gambit,Domination,0.75
+dwarf-,Invisible Woman,Convergence,1.0
+dwarf-,Invisible Woman,Convoy,0.5
+dwarf-,Jeff The Land Shark,Convergence,1.0
+dwarf-,Jeff The Land Shark,Convoy,1.0
+dwarf-,Loki,Convergence,0.0
+dwarf-,Magneto,Convergence,0.0
+dwarf-,Magneto,Convoy,0.0
+dwarf-,Mantis,Convergence,0.5
+dwarf-,Mantis,Convoy,1.0
+easycurrysnipr,Angela,Convergence,1.0
+easycurrysnipr,Angela,Convoy,1.0
+easycurrysnipr,Daredevil,Convergence,1.0
+easycurrysnipr,Daredevil,Domination,1.0
+easycurrysnipr,Groot,Convergence,0.5
+easycurrysnipr,Groot,Convoy,0.5
+easycurrysnipr,Groot,Domination,1.0
+easycurrysnipr,Human Torch,Domination,1.0
+easycurrysnipr,Iron Fist,Convoy,1.0
+easycurrysnipr,Mantis,Convoy,1.0
+easycurrysnipr,Moon Knight,Convoy,0.0
+easycurrysnipr,Namor,Convoy,1.0
+easycurrysnipr,Psylocke,Convoy,1.0
+easycurrysnipr,Psylocke,Domination,0.0
+easycurrysnipr,Rocket Raccoon,Convoy,1.0
+easycurrysnipr,Rocket Raccoon,Domination,1.0
+easycurrysnipr,Star-Lord,Convergence,0.5
+easycurrysnipr,Star-Lord,Convoy,0.0
+easycurrysnipr,Wolverine,Domination,1.0
+etrnalparadise,Invisible Woman,Convergence,0.2857142857142857
+etrnalparadise,Invisible Woman,Convoy,0.75
+etrnalparadise,Invisible Woman,Domination,0.625
+etrnalparadise,Mantis,Convergence,0.0
+etrnalparadise,Mantis,Convoy,0.0
+evil.selegend,Angela,Convergence,1.0
+evil.selegend,Angela,Convoy,1.0
+evil.selegend,Emma Frost,Convergence,1.0
+evil.selegend,Emma Frost,Domination,0.0
+evil.selegend,Gambit,Convoy,1.0
+evil.selegend,Gambit,Domination,1.0
+evil.selegend,Hawkeye,Convergence,0.6666666666666666
+evil.selegend,Hawkeye,Convoy,1.0
+evil.selegend,Invisible Woman,Domination,1.0
+evil.selegend,Jeff The Land Shark,Convoy,1.0
+evil.selegend,Jeff The Land Shark,Domination,0.0
+evil.selegend,Luna Snow,Convergence,0.0
+evil.selegend,Magneto,Convergence,1.0
+evil.selegend,Magneto,Convoy,0.5
+evil.selegend,Magneto,Domination,0.0
+evil.selegend,Mantis,Convergence,0.0
+evil.selegend,Mantis,Domination,1.0
+evil.selegend,Rocket Raccoon,Convergence,1.0
+falleŋ,Hela,Convergence,1.0
+falleŋ,Hela,Convoy,0.5
+falleŋ,Hela,Domination,0.875
+falleŋ,Invisible Woman,Convergence,0.0
+falleŋ,Phoenix,Convergence,1.0
+falleŋ,Phoenix,Convoy,0.6666666666666666
+falleŋ,Phoenix,Domination,0.6666666666666666
+falleŋ,Winter Soldier,Convoy,1.0
+falleŋ,Winter Soldier,Domination,0.0
+fantastic8ntit,Bruce Banner,Domination,1.0
+fantastic8ntit,Captain America,Domination,1.0
+fantastic8ntit,Hela,Domination,0.0
+fantastic8ntit,Invisible Woman,Domination,1.0
+fantastic8ntit,Magneto,Convergence,0.8333333333333334
+fantastic8ntit,Magneto,Convoy,0.6666666666666666
+fantastic8ntit,Magneto,Domination,0.5
+fantastic8ntit,Moon Knight,Convergence,0.0
+fantastic8ntit,Moon Knight,Convoy,1.0
+fantastic8ntit,Namor,Convergence,0.0
+fantastic8ntit,Phoenix,Convoy,0.0
+fantastic8ntit,Rocket Raccoon,Convergence,1.0
+fantastic8ntit,The Thing,Convoy,1.0
+fantastic8ntit,The Thing,Domination,1.0
+fantastic8ntit,Winter Soldier,Convoy,1.0
+finnsi fan,Emma Frost,Convergence,1.0
+finnsi fan,Emma Frost,Convoy,0.25
+finnsi fan,Emma Frost,Domination,0.5
+finnsi fan,Gambit,Convergence,1.0
+finnsi fan,Invisible Woman,Convoy,0.75
+finnsi fan,Invisible Woman,Domination,0.0
+finnsi fan,Loki,Convoy,1.0
+finnsi fan,Loki,Domination,1.0
+finnsi fan,Magneto,Convergence,1.0
+finnsi fan,Magneto,Convoy,1.0
+finnsi fan,Magneto,Domination,0.6666666666666666
+finnsi fan,Mantis,Convergence,0.0
+fuuヤ,Angela,Domination,0.0
+fuuヤ,Magneto,Convergence,1.0
+fuuヤ,Magneto,Convoy,0.5
+fuuヤ,Magneto,Domination,1.0
+fuuヤ,Peni Parker,Convergence,0.7142857142857143
+fuuヤ,Peni Parker,Convoy,0.8333333333333334
+fuuヤ,Peni Parker,Domination,0.3333333333333333
+gewbil,Gambit,Convergence,0.8
+gewbil,Gambit,Convoy,0.6666666666666666
+gewbil,Gambit,Domination,0.6666666666666666
+gewbil,Invisible Woman,Domination,1.0
+gewbil,Jeff The Land Shark,Convergence,0.0
+gewbil,Loki,Convergence,1.0
+gewbil,Loki,Convoy,1.0
+gewbil,Luna Snow,Convoy,0.6666666666666666
+gewbil,Luna Snow,Domination,0.0
+gewbil,Magneto,Domination,1.0
+gewbil,Mantis,Convoy,1.0
+gewbil,Mantis,Domination,1.0
+gladagrodan35,Invisible Woman,Convergence,0.4444444444444444
+gladagrodan35,Invisible Woman,Convoy,0.75
+gladagrodan35,Invisible Woman,Domination,0.7777777777777778
+gladagrodan35,Luna Snow,Domination,0.0
+gladagrodan35,Mantis,Convergence,1.0
+gladagrodan35,Rocket Raccoon,Convoy,1.0
+gomakazi,Captain America,Convergence,0.0
+gomakazi,Hawkeye,Convoy,1.0
+gomakazi,Hawkeye,Domination,1.0
+gomakazi,Hela,Convergence,0.3333333333333333
+gomakazi,Hela,Convoy,0.6666666666666666
+gomakazi,Hela,Domination,0.5
+gomakazi,Mantis,Domination,1.0
+gomakazi,Moon Knight,Domination,1.0
+gomakazi,Namor,Domination,0.0
+gomakazi,Phoenix,Convergence,0.0
+gomakazi,Psylocke,Convergence,0.3333333333333333
+gomakazi,Psylocke,Convoy,1.0
+gomakazi,Psylocke,Domination,1.0
+gomakazi,Rocket Raccoon,Convergence,0.0
+gomakazi,Spider-Man,Convoy,1.0
+gomakazi,Winter Soldier,Convoy,0.0
+gomakazi,Winter Soldier,Domination,0.0
+gug,Angela,Convoy,1.0
+gug,Angela,Domination,1.0
+gug,Emma Frost,Convergence,1.0
+gug,Emma Frost,Domination,1.0
+gug,Gambit,Domination,0.0
+gug,Invisible Woman,Convergence,0.75
+gug,Luna Snow,Convergence,0.0
+gug,Magik,Convoy,0.0
+gug,Magneto,Domination,1.0
+gug,Mantis,Convoy,0.0
+gug,Phoenix,Convoy,1.0
+gug,Psylocke,Convoy,1.0
+gug,Rocket Raccoon,Convoy,1.0
+gug,Rocket Raccoon,Domination,0.5
+gug,Storm,Convergence,0.5
+gug,Storm,Convoy,1.0
+happyhamster6,Emma Frost,Convoy,1.0
+happyhamster6,Hela,Convergence,0.3333333333333333
+happyhamster6,Hela,Convoy,1.0
+happyhamster6,Hela,Domination,0.5
+happyhamster6,Magneto,Convergence,1.0
+happyhamster6,Magneto,Domination,0.5
+happyhamster6,Moon Knight,Convoy,0.5
+happyhamster6,Phoenix,Convoy,1.0
+happyhamster6,Phoenix,Domination,0.0
+happyhamster6,Psylocke,Convergence,0.0
+happyhamster6,Psylocke,Convoy,1.0
+happyhamster6,Psylocke,Domination,0.5
+happyhamster6,Star-Lord,Convergence,0.0
+happyhamster6,Star-Lord,Convoy,0.5
+hauntq,Psylocke,Convergence,0.5
+hauntq,Psylocke,Convoy,0.25
+hauntq,Psylocke,Domination,1.0
+hauntq,Spider-Man,Convergence,1.0
+hauntq,Spider-Man,Convoy,0.5
+hauntq,Spider-Man,Domination,0.6
+hauntq,Star-Lord,Domination,1.0
+hauntq,Winter Soldier,Convoy,0.5
+healing hole,Invisible Woman,Convergence,0.7142857142857143
+healing hole,Invisible Woman,Convoy,1.0
+healing hole,Invisible Woman,Domination,0.8
+healing hole,Loki,Convergence,1.0
+healing hole,Loki,Domination,0.0
+healing hole,Luna Snow,Convergence,1.0
+healing hole,Luna Snow,Convoy,0.0
+healing hole,Luna Snow,Domination,0.0
+healing hole,Mantis,Convergence,1.0
+healing hole,Mantis,Convoy,0.0
+healing hole,Mantis,Domination,1.0
+healing hole,Rocket Raccoon,Convergence,0.0
+healing hole,Rocket Raccoon,Convoy,0.0
+humblekid.,Emma Frost,Convoy,1.0
+humblekid.,Emma Frost,Domination,0.0
+humblekid.,Hela,Convoy,0.0
+humblekid.,Hela,Domination,1.0
+humblekid.,Luna Snow,Convergence,0.0
+humblekid.,Magneto,Convoy,1.0
+humblekid.,Mantis,Convoy,1.0
+humblekid.,Mantis,Domination,0.0
+humblekid.,Namor,Convergence,1.0
+humblekid.,Namor,Convoy,1.0
+humblekid.,Phoenix,Convoy,1.0
+humblekid.,Phoenix,Domination,0.0
+humblekid.,Psylocke,Convergence,1.0
+humblekid.,Psylocke,Convoy,0.3333333333333333
+humblekid.,Psylocke,Domination,0.3333333333333333
+humblekid.,Spider-Man,Convergence,1.0
+humblekid.,Spider-Man,Convoy,1.0
+humblekid.,Winter Soldier,Domination,1.0
+humblenооb,Daredevil,Convergence,0.0
+humblenооb,Gambit,Convoy,1.0
+humblenооb,Hela,Convoy,1.0
+humblenооb,Hela,Domination,0.0
+humblenооb,Namor,Convergence,0.0
+humblenооb,Namor,Convoy,1.0
+humblenооb,Phoenix,Convergence,1.0
+humblenооb,Phoenix,Convoy,0.5
+humblenооb,Phoenix,Domination,1.0
+humblenооb,Psylocke,Convergence,0.6666666666666666
+humblenооb,Psylocke,Convoy,1.0
+humblenооb,Psylocke,Domination,1.0
+humblenооb,Winter Soldier,Convoy,0.0
+hypixeluhc,Hela,Convoy,1.0
+hypixeluhc,Invisible Woman,Convergence,1.0
+hypixeluhc,Invisible Woman,Convoy,0.0
+hypixeluhc,Phoenix,Convergence,1.0
+hypixeluhc,Phoenix,Convoy,0.5
+hypixeluhc,Phoenix,Domination,1.0
+hypixeluhc,Psylocke,Convoy,1.0
+hypixeluhc,Psylocke,Domination,1.0
+hypixeluhc,Rocket Raccoon,Convoy,0.0
+hypixeluhc,Spider-Man,Convergence,0.5
+hypixeluhc,Spider-Man,Convoy,0.5
+hypixeluhc,Spider-Man,Domination,1.0
+immortal rat,Invisible Woman,Convergence,0.0
+immortal rat,Invisible Woman,Domination,1.0
+immortal rat,Moon Knight,Convergence,0.5
+irundownlugia,Emma Frost,Convergence,1.0
+irundownlugia,Emma Frost,Convoy,0.0
+irundownlugia,Emma Frost,Domination,0.5
+irundownlugia,Groot,Convergence,1.0
+irundownlugia,Groot,Convoy,0.5
+irundownlugia,Groot,Domination,0.6
+irundownlugia,Magneto,Convergence,0.75
+irundownlugia,Magneto,Convoy,0.6666666666666666
+irundownlugia,Magneto,Domination,0.5
+irundownlugia,Mantis,Convoy,0.0
+josiahgagit,Gambit,Convoy,1.0
+josiahgagit,Invisible Woman,Convergence,0.6666666666666666
+josiahgagit,Invisible Woman,Convoy,0.42857142857142855
+josiahgagit,Invisible Woman,Domination,0.75
+josiahgagit,Luna Snow,Convergence,0.0
+josiahgagit,Luna Snow,Convoy,0.6666666666666666
+josiahgagit,Phoenix,Convoy,0.0
+josiahgagit,Rocket Raccoon,Convergence,0.0
+kappapeppapig,Gambit,Convergence,0.8
+kappapeppapig,Gambit,Convoy,1.0
+kappapeppapig,Gambit,Domination,0.5
+kappapeppapig,Invisible Woman,Domination,1.0
+kappapeppapig,Jeff The Land Shark,Convoy,0.0
+kappapeppapig,Loki,Convergence,1.0
+kappapeppapig,Loki,Convoy,0.0
+kappapeppapig,Loki,Domination,1.0
+kappapeppapig,Luna Snow,Domination,1.0
+kappapeppapig,Mantis,Convergence,1.0
+kappapeppapig,Mantis,Domination,1.0
+kappapeppapig,Rocket Raccoon,Domination,0.0
+king virgiy,Iron Fist,Convoy,1.0
+king virgiy,Iron Man,Convergence,1.0
+king virgiy,Iron Man,Convoy,1.0
+king virgiy,Iron Man,Domination,0.75
+king virgiy,Mantis,Convoy,1.0
+king virgiy,Namor,Convergence,0.5
+king virgiy,Namor,Convoy,1.0
+king virgiy,Namor,Domination,1.0
+king virgiy,Rocket Raccoon,Convergence,1.0
+king virgiy,Spider-Man,Convoy,0.5
+king virgiy,The Punisher,Convergence,1.0
+king virgiy,The Punisher,Domination,1.0
+king virgiy,The Thing,Convoy,0.0
+king virgiy,Winter Soldier,Convergence,0.0
+king virgiy,Winter Soldier,Domination,0.0
+kittycrazy,Daredevil,Convoy,1.0
+kittycrazy,Daredevil,Domination,0.0
+kittycrazy,Groot,Convergence,0.5
+kittycrazy,Hela,Domination,1.0
+kittycrazy,Invisible Woman,Convergence,1.0
+kittycrazy,Peni Parker,Convergence,1.0
+kittycrazy,Phoenix,Convoy,0.0
+kittycrazy,Psylocke,Convergence,1.0
+kittycrazy,Psylocke,Convoy,0.6666666666666666
+kittycrazy,Psylocke,Domination,0.5
+kittycrazy,Rocket Raccoon,Convoy,1.0
+kittycrazy,Star-Lord,Convoy,1.0
+kittycrazy,Star-Lord,Domination,0.0
+kittycrazy,The Punisher,Convoy,1.0
+kittycrazy,Wolverine,Convoy,1.0
+kittycrazy,Wolverine,Domination,1.0
+lilmonix333,Adam Warlock,Domination,0.0
+lilmonix333,Hawkeye,Convergence,1.0
+lilmonix333,Hela,Convergence,0.6666666666666666
+lilmonix333,Hela,Convoy,1.0
+lilmonix333,Hela,Domination,0.5
+lilmonix333,Luna Snow,Convergence,1.0
+lilmonix333,Luna Snow,Convoy,0.0
+lilmonix333,Mantis,Convoy,1.0
+lilmonix333,Phoenix,Convergence,1.0
+lilmonix333,Phoenix,Convoy,0.6666666666666666
+lilmonix333,Phoenix,Domination,0.6666666666666666
+lilmonix333,Rocket Raccoon,Domination,0.0
+lily2creamyy,Emma Frost,Domination,1.0
+lily2creamyy,Hela,Convergence,0.0
+lily2creamyy,Hela,Convoy,0.0
+lily2creamyy,Hela,Domination,0.6666666666666666
+lily2creamyy,Human Torch,Convoy,1.0
+lily2creamyy,Namor,Convergence,1.0
+lily2creamyy,Phoenix,Convergence,1.0
+lily2creamyy,Phoenix,Domination,1.0
+lily2creamyy,Rocket Raccoon,Convergence,1.0
+lily2creamyy,Rocket Raccoon,Convoy,1.0
+lily2creamyy,Star-Lord,Convergence,0.3333333333333333
+lily2creamyy,Star-Lord,Domination,0.5
+lily2creamyy,Venom,Convergence,0.5
+lily2creamyy,Winter Soldier,Convoy,0.6666666666666666
+lily2creamyy,Wolverine,Convergence,1.0
+lily2creamyy,Wolverine,Domination,1.0
+"love, ing",Hela,Convergence,1.0
+"love, ing",Luna Snow,Convoy,1.0
+"love, ing",Phoenix,Convergence,0.6666666666666666
+"love, ing",Phoenix,Convoy,0.0
+"love, ing",Phoenix,Domination,0.0
+"love, ing",Psylocke,Convergence,1.0
+"love, ing",Psylocke,Convoy,0.0
+"love, ing",Star-Lord,Convergence,1.0
+"love, ing",Star-Lord,Convoy,1.0
+"love, ing",Star-Lord,Domination,0.3333333333333333
+"love, ing",Winter Soldier,Convoy,0.6666666666666666
+"love, ing",Winter Soldier,Domination,1.0
+ltuvis,Captain America,Convoy,1.0
+ltuvis,Emma Frost,Convergence,0.5
+ltuvis,Emma Frost,Convoy,1.0
+ltuvis,Emma Frost,Domination,0.5
+ltuvis,Groot,Convergence,0.5
+ltuvis,Jeff The Land Shark,Convergence,0.0
+ltuvis,Jeff The Land Shark,Domination,0.5
+ltuvis,Magneto,Convergence,1.0
+ltuvis,Magneto,Convoy,1.0
+ltuvis,The Thing,Convergence,1.0
+ltuvis,Thor,Convoy,0.0
+ltuvis,Wolverine,Convergence,1.0
+ltuvis,Wolverine,Convoy,1.0
+ltuvis,Wolverine,Domination,0.5
+magza,Hela,Convergence,0.0
+magza,Psylocke,Convergence,0.0
+magza,Psylocke,Convoy,1.0
+magza,Psylocke,Domination,1.0
+magza,Star-Lord,Convoy,1.0
+magza,Star-Lord,Domination,0.5
+magza,The Punisher,Convoy,1.0
+magza,Winter Soldier,Convergence,0.6666666666666666
+magza,Winter Soldier,Convoy,1.0
+magza,Winter Soldier,Domination,0.6666666666666666
+magza,Wolverine,Convergence,1.0
+magza,Wolverine,Convoy,1.0
+magza,Wolverine,Domination,1.0
+mbort,Human Torch,Convergence,0.6
+mbort,Human Torch,Convoy,0.3333333333333333
+mbort,Human Torch,Domination,0.5
+mbort,Invisible Woman,Convergence,0.5
+mbort,Invisible Woman,Domination,0.0
+mbort,Namor,Domination,1.0
+mbort,Rocket Raccoon,Domination,1.0
+mbort,Star-Lord,Convergence,1.0
+mbort,Star-Lord,Domination,0.6
+mbort,Winter Soldier,Convoy,0.0
+monkeycoIIectr,Captain America,Convoy,1.0
+monkeycoIIectr,Daredevil,Convergence,0.0
+monkeycoIIectr,Daredevil,Domination,1.0
+monkeycoIIectr,Emma Frost,Convergence,0.0
+monkeycoIIectr,Groot,Domination,0.5
+monkeycoIIectr,Magneto,Convergence,1.0
+monkeycoIIectr,Magneto,Convoy,1.0
+monkeycoIIectr,Namor,Domination,1.0
+monkeycoIIectr,Rocket Raccoon,Convoy,0.0
+monkeycoIIectr,Star-Lord,Convergence,0.5
+monkeycoIIectr,Star-Lord,Convoy,0.5
+monkeycoIIectr,Star-Lord,Domination,0.5
+monkeycoIIectr,Venom,Convoy,1.0
+monkeycoIIectr,Venom,Domination,1.0
+monkeycoIIectr,Winter Soldier,Convergence,0.0
+monkeycoIIectr,Winter Soldier,Convoy,1.0
+nectarx_x,Daredevil,Convergence,0.0
+nectarx_x,Daredevil,Convoy,1.0
+nectarx_x,Daredevil,Domination,1.0
+nectarx_x,Hela,Convergence,0.5
+nectarx_x,Hela,Convoy,0.6
+nectarx_x,Hela,Domination,0.5
+nectarx_x,Magneto,Convoy,0.0
+nectarx_x,Namor,Convergence,1.0
+nectarx_x,Namor,Domination,1.0
+nectarx_x,Phoenix,Convergence,0.0
+nectarx_x,Phoenix,Convoy,1.0
+nectarx_x,Phoenix,Domination,1.0
+nectarx_x,Psylocke,Domination,1.0
+nectarx_x,Star-Lord,Domination,1.0
+nectarx_x,Winter Soldier,Convergence,1.0
+nectarx_x,Winter Soldier,Convoy,0.0
+nrg,Angela,Convoy,1.0
+nrg,Black Widow,Convoy,1.0
+nrg,Groot,Convergence,0.0
+nrg,Hela,Convergence,1.0
+nrg,Hela,Convoy,1.0
+nrg,Hela,Domination,1.0
+nrg,Iron Fist,Domination,1.0
+nrg,Mister Fantastic,Convergence,0.0
+nrg,Mister Fantastic,Convoy,0.0
+nrg,Phoenix,Convergence,1.0
+nrg,Phoenix,Domination,0.0
+nrg,Psylocke,Convergence,1.0
+nrg,Psylocke,Convoy,0.0
+nrg,Winter Soldier,Convergence,1.0
+nrg,Winter Soldier,Domination,0.75
+nrg,Wolverine,Convergence,0.5
+nrg,Wolverine,Convoy,1.0
+nrg,Wolverine,Domination,1.0
+nx >_<,Daredevil,Convoy,1.0
+nx >_<,Groot,Convoy,0.5
+nx >_<,Groot,Domination,0.0
+nx >_<,Hela,Convergence,1.0
+nx >_<,Hela,Convoy,0.0
+nx >_<,Hela,Domination,1.0
+nx >_<,Jeff The Land Shark,Domination,0.0
+nx >_<,Magneto,Convergence,0.5
+nx >_<,Magneto,Convoy,0.0
+nx >_<,Mantis,Convergence,0.0
+nx >_<,Mantis,Domination,0.0
+nx >_<,Phoenix,Domination,1.0
+nx >_<,Star-Lord,Convergence,0.6
+nx >_<,Star-Lord,Convoy,1.0
+nx >_<,Star-Lord,Domination,0.0
+objеct,Adam Warlock,Convergence,1.0
+objеct,Gambit,Convergence,0.6666666666666666
+objеct,Gambit,Convoy,0.5
+objеct,Gambit,Domination,0.5
+objеct,Invisible Woman,Convergence,0.0
+objеct,Invisible Woman,Convoy,0.3333333333333333
+objеct,Invisible Woman,Domination,1.0
+objеct,Loki,Domination,1.0
+objеct,Luna Snow,Convoy,1.0
+objеct,Luna Snow,Domination,0.0
+onlylegs,Adam Warlock,Convergence,1.0
+onlylegs,Adam Warlock,Domination,1.0
+onlylegs,Gambit,Convergence,0.75
+onlylegs,Gambit,Convoy,1.0
+onlylegs,Gambit,Domination,0.5
+onlylegs,Invisible Woman,Convergence,0.5
+onlylegs,Invisible Woman,Convoy,1.0
+onlylegs,Invisible Woman,Domination,1.0
+onlylegs,Loki,Convergence,0.0
+onlylegs,Loki,Convoy,0.0
+onlylegs,Luna Snow,Convoy,0.0
+onlylegs,Magneto,Domination,1.0
+onlylegs,Mantis,Convergence,0.0
+onlylegs,Mantis,Convoy,0.0
+onlylegs,Rocket Raccoon,Convergence,1.0
+onlylegs,The Punisher,Domination,1.0
+owisterrible,Adam Warlock,Convergence,1.0
+owisterrible,Adam Warlock,Convoy,1.0
+owisterrible,Adam Warlock,Domination,0.0
+owisterrible,Gambit,Convergence,0.3333333333333333
+owisterrible,Gambit,Convoy,1.0
+owisterrible,Gambit,Domination,0.6
+owisterrible,Invisible Woman,Convergence,1.0
+owisterrible,Loki,Convergence,1.0
+owisterrible,Loki,Convoy,0.0
+owisterrible,Loki,Domination,1.0
+owisterrible,Magneto,Domination,1.0
+owisterrible,Rocket Raccoon,Domination,0.0
+owisterrible,Venom,Convoy,1.0
+piercing.,Cloak & Dagger,Domination,0.0
+piercing.,Gambit,Convoy,0.0
+piercing.,Gambit,Domination,1.0
+piercing.,Invisible Woman,Convergence,0.75
+piercing.,Invisible Woman,Convoy,0.75
+piercing.,Loki,Convergence,1.0
+piercing.,Luna Snow,Convergence,0.0
+piercing.,Luna Snow,Convoy,1.0
+piercing.,Luna Snow,Domination,0.6666666666666666
+piercing.,Mantis,Convergence,0.0
+piercing.,Mantis,Convoy,0.5
+piercing.,Mantis,Domination,1.0
+piercing.,Rocket Raccoon,Convoy,1.0
+pnpballer,Iron Fist,Convoy,0.0
+pnpballer,Iron Fist,Domination,1.0
+pnpballer,Rocket Raccoon,Convergence,1.0
+pnpballer,Rocket Raccoon,Convoy,0.0
+pnpballer,Spider-Man,Convergence,0.5
+pnpballer,Spider-Man,Convoy,0.25
+pnpballer,Spider-Man,Domination,0.5714285714285714
+pnpballer,Star-Lord,Convergence,0.0
+pnpballer,Star-Lord,Domination,1.0
+pocket rоcket,Emma Frost,Convergence,1.0
+pocket rоcket,Invisible Woman,Convergence,1.0
+pocket rоcket,Invisible Woman,Convoy,0.0
+pocket rоcket,Invisible Woman,Domination,0.5
+pocket rоcket,Jeff The Land Shark,Domination,1.0
+pocket rоcket,Loki,Convoy,0.0
+pocket rоcket,Mantis,Convergence,1.0
+pocket rоcket,Mantis,Domination,1.0
+pocket rоcket,Rocket Raccoon,Convergence,0.3333333333333333
+pocket rоcket,Rocket Raccoon,Convoy,0.3333333333333333
+pocket rоcket,Rocket Raccoon,Domination,0.75
+pålpex,Angela,Convergence,1.0
+pålpex,Captain America,Convergence,0.6666666666666666
+pålpex,Captain America,Convoy,0.0
+pålpex,Captain America,Domination,1.0
+pålpex,Emma Frost,Convergence,0.5
+pålpex,Emma Frost,Convoy,0.0
+pålpex,Gambit,Domination,1.0
+pålpex,Groot,Convergence,0.0
+pålpex,Groot,Convoy,0.0
+pålpex,Groot,Domination,0.0
+pålpex,Magneto,Convergence,1.0
+pålpex,Magneto,Convoy,0.0
+pålpex,Magneto,Domination,1.0
+pålpex,Venom,Convoy,1.0
+pålpex,Venom,Domination,1.0
+quela3232,Invisible Woman,Convergence,0.6666666666666666
+quela3232,Invisible Woman,Convoy,0.6666666666666666
+quela3232,Invisible Woman,Domination,1.0
+quela3232,Jeff The Land Shark,Domination,0.0
+quela3232,Loki,Convergence,0.0
+quela3232,Loki,Convoy,0.75
+quela3232,Loki,Domination,1.0
+quela3232,Luna Snow,Convoy,1.0
+quela3232,Luna Snow,Domination,1.0
+quela3232,Mantis,Convoy,1.0
+quela3232,Rocket Raccoon,Convergence,0.75
+quela3232,Rocket Raccoon,Convoy,0.0
+quela3232,Rocket Raccoon,Domination,1.0
+renko_,Gambit,Convergence,0.75
+renko_,Gambit,Convoy,0.6
+renko_,Gambit,Domination,0.8333333333333334
+renko_,Invisible Woman,Convoy,1.0
+renko_,Jeff The Land Shark,Convergence,1.0
+renko_,Loki,Convergence,0.75
+renko_,Loki,Convoy,0.3333333333333333
+renko_,Mantis,Domination,0.0
+robanroman,Captain America,Convergence,0.3333333333333333
+robanroman,Captain America,Convoy,1.0
+robanroman,Captain America,Domination,0.8
+robanroman,Groot,Convergence,1.0
+robanroman,Iron Man,Convoy,1.0
+robanroman,Mister Fantastic,Convergence,0.6666666666666666
+robanroman,Mister Fantastic,Convoy,0.75
+robanroman,Mister Fantastic,Domination,0.6
+robanroman,Rocket Raccoon,Domination,1.0
+rymazing fan,Emma Frost,Convergence,1.0
+rymazing fan,Emma Frost,Convoy,0.6666666666666666
+rymazing fan,Emma Frost,Domination,0.5
+rymazing fan,Gambit,Domination,0.0
+rymazing fan,Invisible Woman,Convergence,0.6666666666666666
+rymazing fan,Invisible Woman,Convoy,1.0
+rymazing fan,Invisible Woman,Domination,0.5
+rymazing fan,Loki,Convergence,0.0
+rymazing fan,Loki,Convoy,1.0
+rymazing fan,Loki,Domination,1.0
+rymazing fan,Magneto,Convoy,0.0
+rymazing fan,Magneto,Domination,1.0
+rymazing fan,Rocket Raccoon,Domination,1.0
+ryu ian,Gambit,Convergence,0.5
+ryu ian,Gambit,Convoy,0.6666666666666666
+ryu ian,Gambit,Domination,0.6666666666666666
+ryu ian,Invisible Woman,Convergence,1.0
+ryu ian,Invisible Woman,Convoy,1.0
+ryu ian,Luna Snow,Domination,1.0
+ryu ian,Mantis,Convergence,1.0
+ryu ian,Phoenix,Convoy,0.0
+ryu ian,Rocket Raccoon,Convergence,1.0
+ryu ian,Rocket Raccoon,Convoy,1.0
+smah47,Hela,Convoy,1.0
+smah47,Luna Snow,Convergence,0.0
+smah47,Luna Snow,Convoy,0.3333333333333333
+smah47,Luna Snow,Domination,0.6666666666666666
+smah47,Phoenix,Convoy,1.0
+smah47,The Punisher,Convergence,0.8571428571428571
+smah47,The Punisher,Convoy,0.6
+smah47,The Punisher,Domination,0.75
+snakeCase1,Emma Frost,Convergence,1.0
+snakeCase1,Magneto,Convergence,0.0
+snakeCase1,Magneto,Convoy,1.0
+snakeCase1,Venom,Convergence,1.0
+snakeCase1,Venom,Convoy,0.7142857142857143
+snakeCase1,Venom,Domination,0.45454545454545453
+snakeCase2,Emma Frost,Convergence,0.0
+snakeCase2,Emma Frost,Convoy,0.0
+snakeCase2,Emma Frost,Domination,0.2
+snakeCase2,Venom,Convergence,0.8333333333333334
+snakeCase2,Venom,Convoy,0.8333333333333334
+snakeCase2,Venom,Domination,0.8333333333333334
+snakeCase3,Captain America,Domination,0.0
+snakeCase3,Emma Frost,Convergence,0.0
+snakeCase3,Emma Frost,Convoy,1.0
+snakeCase3,Emma Frost,Domination,0.5
+snakeCase3,Venom,Convergence,1.0
+snakeCase3,Venom,Convoy,0.7142857142857143
+snakeCase3,Venom,Domination,0.7142857142857143
+suzhouu,Invisible Woman,Convergence,0.8333333333333334
+suzhouu,Invisible Woman,Convoy,1.0
+suzhouu,Invisible Woman,Domination,1.0
+suzhouu,Luna Snow,Convergence,1.0
+suzhouu,Luna Snow,Domination,0.75
+suzhouu,Mantis,Convergence,1.0
+suzhouu,Mantis,Convoy,0.6666666666666666
+suzhouu,Mantis,Domination,1.0
+suzhouu,Rocket Raccoon,Convergence,1.0
+suzhouu,Rocket Raccoon,Convoy,0.0
+suzhouu,Rocket Raccoon,Domination,0.0
+swaggyandy,Gambit,Convergence,1.0
+swaggyandy,Gambit,Convoy,1.0
+swaggyandy,Gambit,Domination,0.6
+swaggyandy,Invisible Woman,Convergence,0.0
+swaggyandy,Invisible Woman,Domination,0.3333333333333333
+swaggyandy,Mantis,Domination,0.0
+swaggyandy,Rocket Raccoon,Convergence,0.0
+sогa,Emma Frost,Convergence,0.0
+sогa,Invisible Woman,Convergence,0.6
+sогa,Invisible Woman,Convoy,0.0
+sогa,Invisible Woman,Domination,1.0
+sогa,Luna Snow,Convergence,0.0
+sогa,Luna Snow,Convoy,0.5
+sогa,Luna Snow,Domination,0.3333333333333333
+sогa,Mantis,Domination,1.0
+sогa,Phoenix,Convoy,1.0
+sогa,Rocket Raccoon,Convergence,1.0
+t1mbur.,Hela,Convoy,1.0
+t1mbur.,Hela,Domination,0.25
+t1mbur.,Namor,Convergence,1.0
+t1mbur.,Namor,Domination,0.3333333333333333
+t1mbur.,Phoenix,Convergence,0.0
+t1mbur.,Psylocke,Convoy,0.5
+t1mbur.,Psylocke,Domination,1.0
+t1mbur.,Star-Lord,Convoy,0.0
+t1mbur.,Star-Lord,Domination,0.3333333333333333
+t1mbur.,Winter Soldier,Convergence,0.6666666666666666
+t1mbur.,Winter Soldier,Convoy,0.6666666666666666
+teleosts,Iron Man,Convergence,1.0
+teleosts,Iron Man,Domination,1.0
+teleosts,Magneto,Convergence,0.5
+teleosts,Magneto,Convoy,0.0
+teleosts,Moon Knight,Convergence,1.0
+teleosts,Moon Knight,Convoy,0.3333333333333333
+teleosts,The Punisher,Convergence,0.75
+teleosts,The Punisher,Domination,0.75
+thе painter,The Punisher,Convergence,0.5714285714285714
+thе painter,The Punisher,Convoy,0.5833333333333334
+thе painter,The Punisher,Domination,0.5
+tina >w<,Angela,Domination,0.5
+tina >w<,Emma Frost,Convoy,0.0
+tina >w<,Gambit,Convergence,1.0
+tina >w<,Gambit,Convoy,0.6666666666666666
+tina >w<,Gambit,Domination,1.0
+tina >w<,Invisible Woman,Convergence,0.5
+tina >w<,Invisible Woman,Convoy,1.0
+tina >w<,Invisible Woman,Domination,1.0
+tina >w<,Jeff The Land Shark,Convergence,0.0
+tina >w<,Jeff The Land Shark,Convoy,1.0
+tina >w<,Jeff The Land Shark,Domination,1.0
+tina >w<,Magneto,Convergence,1.0
+tina >w<,Mantis,Convoy,1.0
+ttv.tiersz__,Iron Fist,Domination,0.0
+ttv.tiersz__,Mantis,Convergence,0.0
+ttv.tiersz__,Psylocke,Domination,1.0
+ttv.tiersz__,Spider-Man,Convergence,0.8571428571428571
+ttv.tiersz__,Spider-Man,Convoy,0.6666666666666666
+ttv.tiersz__,Spider-Man,Domination,1.0
+ttv.tiersz__,Winter Soldier,Convoy,1.0
+undead131,Gambit,Convoy,1.0
+undead131,Invisible Woman,Convergence,0.8333333333333334
+undead131,Invisible Woman,Convoy,0.42857142857142855
+undead131,Invisible Woman,Domination,1.0
+undead131,Mantis,Convergence,0.3333333333333333
+undead131,Mantis,Convoy,1.0
+undead131,Mantis,Domination,0.5
+vSilentt,Doctor Strange,Domination,0.5
+vSilentt,Emma Frost,Convergence,0.75
+vSilentt,Emma Frost,Convoy,0.3333333333333333
+vSilentt,Emma Frost,Domination,1.0
+vSilentt,Groot,Convoy,0.0
+vSilentt,Groot,Domination,1.0
+vSilentt,Invisible Woman,Convergence,1.0
+vSilentt,Luna Snow,Domination,1.0
+vSilentt,Magneto,Convergence,0.5
+vSilentt,Magneto,Domination,0.5
+viccers,Hela,Convergence,1.0
+viccers,Hela,Convoy,0.8333333333333334
+viccers,Hela,Domination,1.0
+viccers,Phoenix,Convergence,0.5
+viccers,Phoenix,Convoy,0.6666666666666666
+viccers,Phoenix,Domination,0.7142857142857143
+viccers,Winter Soldier,Convoy,0.0
+viewspixel,Doctor Strange,Convoy,1.0
+viewspixel,Emma Frost,Convergence,0.5
+viewspixel,Emma Frost,Convoy,0.75
+viewspixel,Emma Frost,Domination,0.6666666666666666
+viewspixel,Jeff The Land Shark,Convergence,1.0
+viewspixel,Magneto,Convergence,1.0
+viewspixel,Magneto,Convoy,0.0
+viewspixel,Magneto,Domination,0.75
+viewspixel,Psylocke,Convoy,0.0
+viewspixel,Rocket Raccoon,Convergence,0.0
+viewspixel,Rocket Raccoon,Convoy,0.0
+viewspixel,Venom,Domination,0.0
+warmi,Loki,Convergence,0.0
+warmi,Magneto,Convergence,0.0
+warmi,Magneto,Convoy,0.0
+warmi,Mantis,Domination,0.0
+warmi,The Punisher,Domination,1.0
+warmi,Venom,Convergence,0.5714285714285714
+warmi,Venom,Convoy,0.8333333333333334
+warmi,Venom,Domination,1.0
+xavier based,Gambit,Convergence,0.6666666666666666
+xavier based,Gambit,Convoy,0.625
+xavier based,Gambit,Domination,0.5
+xavier based,Invisible Woman,Convergence,1.0
+xavier based,Invisible Woman,Convoy,1.0
+xavier based,Loki,Domination,0.0
+xavier based,Luna Snow,Convoy,1.0
+xavier based,Psylocke,Domination,0.0
+xavier based,Rocket Raccoon,Convoy,1.0
+xavier based,Rocket Raccoon,Domination,0.0
+xavier based,Wolverine,Convergence,1.0
+yagoofie,Daredevil,Convergence,1.0
+yagoofie,Daredevil,Domination,0.0
+yagoofie,Iron Fist,Convergence,0.0
+yagoofie,Iron Fist,Domination,0.0
+yagoofie,Mister Fantastic,Convergence,0.0
+yagoofie,Rocket Raccoon,Convoy,1.0
+yagoofie,Wolverine,Convergence,1.0
+yagoofie,Wolverine,Convoy,0.8333333333333334
+yagoofie,Wolverine,Domination,0.75
+yellow >_<,Gambit,Convoy,0.3333333333333333
+yellow >_<,Invisible Woman,Convergence,0.8
+yellow >_<,Invisible Woman,Convoy,0.75
+yellow >_<,Invisible Woman,Domination,1.0
+yellow >_<,Jeff The Land Shark,Domination,0.0
+yellow >_<,Luna Snow,Domination,1.0
+yellow >_<,Rocket Raccoon,Convergence,1.0
+yellow >_<,Rocket Raccoon,Convoy,1.0
+yellow >_<,Rocket Raccoon,Domination,0.5
+yuki >w<,Angela,Domination,1.0
+yuki >w<,Emma Frost,Convoy,1.0
+yuki >w<,Emma Frost,Domination,0.0
+yuki >w<,Gambit,Convergence,0.6666666666666666
+yuki >w<,Gambit,Convoy,0.5
+yuki >w<,Gambit,Domination,1.0
+yuki >w<,Invisible Woman,Convergence,0.6666666666666666
+yuki >w<,Invisible Woman,Convoy,1.0
+yuki >w<,Invisible Woman,Domination,0.6666666666666666
+yuki >w<,Jeff The Land Shark,Convergence,0.0
+yuki >w<,Loki,Domination,0.0
+yuki >w<,Rocket Raccoon,Convergence,0.0
+zCotton,Angela,Domination,1.0
+zCotton,Blade,Convoy,1.0
+zCotton,Captain America,Convergence,0.0
+zCotton,Gambit,Convergence,1.0
+zCotton,Gambit,Convoy,1.0
+zCotton,Gambit,Domination,1.0
+zCotton,Groot,Domination,1.0
+zCotton,Invisible Woman,Convergence,1.0
+zCotton,Invisible Woman,Convoy,0.0
+zCotton,Invisible Woman,Domination,0.3333333333333333
+zCotton,Iron Fist,Convoy,0.0
+zCotton,Iron Fist,Domination,1.0
+zCotton,Loki,Convoy,1.0
+zCotton,Magneto,Convergence,0.5
+zCotton,Magneto,Convoy,1.0
+zCotton,Magneto,Domination,1.0
+zCotton,Phoenix,Convergence,1.0
+zCotton,Wolverine,Domination,0.5
+çarrot,Emma Frost,Domination,1.0
+çarrot,Gambit,Convergence,1.0
+çarrot,Gambit,Convoy,0.6
+çarrot,Gambit,Domination,0.75
+çarrot,Invisible Woman,Convergence,0.6666666666666666
+çarrot,Invisible Woman,Convoy,0.0
+çarrot,Invisible Woman,Domination,0.0
+çarrot,Loki,Convoy,1.0
+çarrot,Loki,Domination,0.0
+çarrot,Magneto,Convergence,0.0
+çarrot,Mantis,Convoy,1.0
+çarrot,Rocket Raccoon,Convergence,1.0
+çarrot,Rocket Raccoon,Convoy,1.0
+çarrot,Rocket Raccoon,Domination,0.0
+ŁE SSERAFIM,Captain America,Convoy,0.0
+ŁE SSERAFIM,Captain America,Domination,0.5
+ŁE SSERAFIM,Emma Frost,Convergence,0.5
+ŁE SSERAFIM,Emma Frost,Convoy,0.5
+ŁE SSERAFIM,Emma Frost,Domination,1.0
+ŁE SSERAFIM,Gambit,Convergence,0.5
+ŁE SSERAFIM,Gambit,Convoy,0.0
+ŁE SSERAFIM,Gambit,Domination,0.5
+ŁE SSERAFIM,Invisible Woman,Convergence,1.0
+ŁE SSERAFIM,Invisible Woman,Convoy,0.3333333333333333
+ŁE SSERAFIM,Invisible Woman,Domination,1.0
+ŁE SSERAFIM,Loki,Convergence,0.5
+ŁE SSERAFIM,Magneto,Convergence,1.0
+ŁE SSERAFIM,Magneto,Convoy,1.0
+Јanuary,Daredevil,Convoy,0.0
+Јanuary,Gambit,Convergence,0.0
+Јanuary,Hawkeye,Convergence,0.0
+Јanuary,Hela,Convergence,0.8
+Јanuary,Hela,Convoy,0.3333333333333333
+Јanuary,Hela,Domination,0.3333333333333333
+Јanuary,Mister Fantastic,Domination,0.0
+Јanuary,Phoenix,Convergence,1.0
+Јanuary,Phoenix,Domination,0.0
+Јanuary,Psylocke,Convergence,1.0
+Јanuary,Psylocke,Convoy,0.0
+Јanuary,Star-Lord,Convoy,0.0
+Јanuary,Winter Soldier,Convoy,0.0
+Јanuary,Wolverine,Convergence,1.0
+Екатерина,Adam Warlock,Convoy,1.0
+Екатерина,Gambit,Convergence,0.5
+Екатерина,Gambit,Convoy,0.5
+Екатерина,Gambit,Domination,1.0
+Екатерина,Invisible Woman,Convergence,1.0
+Екатерина,Invisible Woman,Convoy,0.75
+Екатерина,Invisible Woman,Domination,0.3333333333333333
+Екатерина,Loki,Convergence,0.5
+Екатерина,Loki,Convoy,1.0
+Екатерина,Loki,Domination,0.0
+Екатерина,Luna Snow,Domination,1.0
+Екатерина,Rocket Raccoon,Convergence,1.0
+Екатерина,Rocket Raccoon,Domination,0.5
+Сiri,Captain America,Convergence,1.0
+Сiri,Gambit,Convergence,0.0
+Сiri,Hela,Convergence,0.3333333333333333
+Сiri,Hela,Convoy,1.0
+Сiri,Hela,Domination,1.0
+Сiri,Magneto,Convergence,0.6666666666666666
+Сiri,Magneto,Convoy,0.0
+Сiri,Phoenix,Convergence,1.0
+Сiri,Phoenix,Convoy,0.0
+Сiri,Phoenix,Domination,0.6666666666666666
+Сiri,Psylocke,Convoy,1.0
+Сiri,Spider-Man,Convergence,0.0
+Сiri,Star-Lord,Convoy,0.0
+Сiri,Winter Soldier,Convergence,1.0
+Сiri,Winter Soldier,Convoy,1.0
+Сiri,Winter Soldier,Domination,0.0
+аrmоr,Emma Frost,Domination,0.5
+аrmоr,Magneto,Convergence,1.0
+аrmоr,Magneto,Convoy,0.6666666666666666
+аrmоr,Mantis,Convoy,0.0
+аrmоr,Mantis,Domination,1.0
+аrmоr,Namor,Convergence,0.5
+аrmоr,Namor,Convoy,1.0
+аrmоr,Namor,Domination,0.0
+аrmоr,Phoenix,Convergence,1.0
+аrmоr,Phoenix,Domination,0.0
+аrmоr,Star-Lord,Convoy,1.0
+аrmоr,The Punisher,Domination,1.0
+рrism,Captain America,Domination,0.0
+рrism,Gambit,Convoy,1.0
+рrism,Gambit,Domination,1.0
+рrism,Groot,Convoy,0.0
+рrism,Hela,Convoy,1.0
+рrism,Hela,Domination,1.0
+рrism,Invisible Woman,Domination,1.0
+рrism,Magneto,Convergence,0.0
+рrism,Magneto,Convoy,0.0
+рrism,Magneto,Domination,0.5
+рrism,Namor,Convergence,1.0
+рrism,Phoenix,Convoy,1.0
+рrism,Phoenix,Domination,0.6666666666666666
+рrism,Winter Soldier,Convergence,0.5
+рrism,Winter Soldier,Convoy,1.0
+рrism,Winter Soldier,Domination,1.0
+сhеeky,Captain America,Convergence,1.0
+сhеeky,Captain America,Domination,1.0
+сhеeky,Emma Frost,Convergence,1.0
+сhеeky,Emma Frost,Convoy,0.5
+сhеeky,Emma Frost,Domination,0.5
+сhеeky,Hela,Convoy,1.0
+сhеeky,Loki,Convergence,0.0
+сhеeky,Magneto,Convergence,0.6666666666666666
+сhеeky,Magneto,Convoy,1.0
+сhеeky,Namor,Domination,0.0
+іroha,Invisible Woman,Convergence,0.8571428571428571
+іroha,Invisible Woman,Convoy,0.8
+іroha,Invisible Woman,Domination,0.42857142857142855
+іroha,Luna Snow,Convoy,1.0
+іroha,Luna Snow,Domination,1.0
+іroha,Mantis,Convoy,1.0
+іroha,Rocket Raccoon,Domination,0.0
+الطوارئ,Gambit,Convoy,0.5
+الطوارئ,Gambit,Domination,0.75
+الطوارئ,Invisible Woman,Convergence,0.5
+الطوارئ,Invisible Woman,Convoy,1.0
+الطوارئ,Invisible Woman,Domination,1.0
+الطوارئ,Loki,Convergence,0.6666666666666666
+الطوارئ,Loki,Convoy,0.25
+الطوارئ,Loki,Domination,0.5
+الطوارئ,Rocket Raccoon,Convoy,0.0
+ᵖᵉʳᵒ,Doctor Strange,Convergence,1.0
+ᵖᵉʳᵒ,Doctor Strange,Domination,0.0
+ᵖᵉʳᵒ,Emma Frost,Convergence,0.3333333333333333
+ᵖᵉʳᵒ,Emma Frost,Convoy,1.0
+ᵖᵉʳᵒ,Emma Frost,Domination,0.75
+ᵖᵉʳᵒ,Invisible Woman,Convergence,1.0
+ᵖᵉʳᵒ,Invisible Woman,Convoy,1.0
+ᵖᵉʳᵒ,Luna Snow,Convoy,0.0
+ᵖᵉʳᵒ,Luna Snow,Domination,1.0
+ᵖᵉʳᵒ,Magneto,Convergence,0.3333333333333333
+ᵖᵉʳᵒ,Magneto,Convoy,0.5
+ᵖᵉʳᵒ,Magneto,Domination,1.0
+ᵖᵉʳᵒ,Rocket Raccoon,Convoy,1.0
+ᵖᵉʳᵒ,Winter Soldier,Convoy,1.0
+ᵖᵉʳᵒ,Winter Soldier,Domination,1.0
+斩尽杀绝,Gambit,Convergence,0.6666666666666666
+斩尽杀绝,Gambit,Convoy,0.8
+斩尽杀绝,Groot,Convergence,1.0
+斩尽杀绝,Groot,Convoy,1.0
+斩尽杀绝,Invisible Woman,Convoy,1.0
+斩尽杀绝,Invisible Woman,Domination,0.5
+斩尽杀绝,Magneto,Convergence,1.0
+斩尽杀绝,Magneto,Domination,0.0
+斩尽杀绝,Phoenix,Convergence,1.0
+斩尽杀绝,Phoenix,Convoy,1.0
+斩尽杀绝,Phoenix,Domination,0.3333333333333333
+斩尽杀绝,Psylocke,Convergence,1.0
+이페,Adam Warlock,Domination,1.0
+이페,Gambit,Convergence,1.0
+이페,Gambit,Convoy,0.5
+이페,Gambit,Domination,1.0
+이페,Invisible Woman,Convergence,0.5
+이페,Invisible Woman,Convoy,1.0
+이페,Invisible Woman,Domination,0.8333333333333334
+이페,Loki,Convoy,0.6666666666666666
+이페,Loki,Domination,1.0
